@@ -1,0 +1,701 @@
+problem_statement_id,organization,department,serial_number,idea_id,team_id,team_name,team_leader
+SIH25020,Ministry of Railways,Ministry of Railways,1,102104,68737,Team Shers,Atharva Kolhe
+SIH25020,Ministry of Railways,Ministry of Railways,2,91668,74431,The_Black_Hawks_KH,Parth D Sugan
+SIH25020,Ministry of Railways,Ministry of Railways,3,75447,80026,NEXUSCALIBER,Divyanshu Raj
+SIH25020,Ministry of Railways,Ministry of Railways,4,74815,62624,Bhondu Coders,Ananya Bhattacha
+SIH25020,Ministry of Railways,Ministry of Railways,5,71022,57472,Eco Nova,NAMRATA ROY
+SIH25020,Ministry of Railways,Ministry of Railways,6,89916,84096,TeamEstrix,Bagyaprem K
+SIH25020,Ministry of Railways,Ministry of Railways,7,90590,78201,Khagesvara,Tanishq Verma
+SIH25021,Ministry of Railways,Ministry of Railways,1,64103,71259,TECH VOYAGER,Stephanie Arockia Thompson
+SIH25021,Ministry of Railways,Ministry of Railways,2,64494,51849,Vimarsha,Vismaya Prakash
+SIH25021,Ministry of Railways,Ministry of Railways,3,108561,61226,HydraX 18,Akash Chandra Ve
+SIH25021,Ministry of Railways,Ministry of Railways,4,103555,62581,Kasa,Kushagra Agarwa
+SIH25021,Ministry of Railways,Ministry of Railways,5,113801,84057,Code on Track1,Daksh Rathore
+SIH25021,Ministry of Railways,Ministry of Railways,6,119124,74700,Crivo,Hareeni S 
+SIH25021,Ministry of Railways,Ministry of Railways,7,86676,62762,Quanta Morph,Deepak S
+SIH25022,Ministry of Railways,Ministry of Railways,1,57574,50575,The Avalanche,RIYA SARAF
+SIH25022,Ministry of Railways,Ministry of Railways,2,60596,64816,#Fireflies,Yuvraj Singh
+SIH25022,Ministry of Railways,Ministry of Railways,3,61652,66575,nyx,Mihir Mahesh Pha
+SIH25022,Ministry of Railways,Ministry of Railways,4,68484,68645,TEAM ELEVE,Lakshya Khare
+SIH25022,Ministry of Railways,Ministry of Railways,5,62247,66820,AXIS,Abhijeet Roy
+SIH25022,Ministry of Railways,Ministry of Railways,6,71482,81458,RAIL-VISION,K.Suchitra
+SIH25022,Ministry of Railways,Ministry of Railways,7,57812,50241,200 OK,Ishaan Sharma
+SIH25023,Ministry of Ayush,All India Institute of Ayurveda (AIIA),1,58192,52638,Algo.Writters,Janhavi Gawade
+SIH25023,Ministry of Ayush,All India Institute of Ayurveda (AIIA),2,58835,53111,PanchPlus,Abhishek Sachin Mandage
+SIH25023,Ministry of Ayush,All India Institute of Ayurveda (AIIA),3,91417,99365,Ananta_25,Pankaj Korkalai
+SIH25023,Ministry of Ayush,All India Institute of Ayurveda (AIIA),4,57548,50573,404 Ninjas,Anirudh Yadav
+SIH25023,Ministry of Ayush,All India Institute of Ayurveda (AIIA),5,58210,54264,Veda Vortex,Arpita Mishra
+SIH25023,Ministry of Ayush,All India Institute of Ayurveda (AIIA),6,57983,53640,TechXTitans PSID - 25023,AKANKSHA SIN THAKUR
+SIH25023,Ministry of Ayush,All India Institute of Ayurveda (AIIA),7,58121,51620,Algorithms,PATEL KAVYA NAVINBHAI
+SIH25024,Ministry of Ayush,All India Institute of Ayurveda (AIIA),1,65926,79114,BreadPith,Pankaj Patel
+SIH25024,Ministry of Ayush,All India Institute of Ayurveda (AIIA),2,110908,54249,X-Ception,Priyanshu Pethe
+SIH25024,Ministry of Ayush,All India Institute of Ayurveda (AIIA),3,61395,52850,Ayutech,Kavyalakshmi S G 
+SIH25024,Ministry of Ayush,All India Institute of Ayurveda (AIIA),4,73044,55589,LexCorps,Satyam Singh
+SIH25024,Ministry of Ayush,All India Institute of Ayurveda (AIIA),5,88056,86224,Cat coders,Gagan Goyal
+SIH25024,Ministry of Ayush,All India Institute of Ayurveda (AIIA),6,74941,70022,ZEROONE 01,Karan Sahani
+SIH25024,Ministry of Ayush,All India Institute of Ayurveda (AIIA),7,78724,94766,AYUR VARDAN,Akshita Mourya
+SIH25025,Ministry of Ayush,All India Institute of Ayurveda (AIIA),1,93249,60129,Hyper Grey,Pulkit Kapur
+SIH25025,Ministry of Ayush,All India Institute of Ayurveda (AIIA),2,111529,91965,KRENOVIANTZ,Lalith Raj N
+SIH25025,Ministry of Ayush,All India Institute of Ayurveda (AIIA),3,93517,98822,Palateonics,Kavya Menon
+SIH25025,Ministry of Ayush,All India Institute of Ayurveda (AIIA),4,64695,74197,PUDHUVALZHI_07,AMIRTHU RIKA
+SIH25025,Ministry of Ayush,All India Institute of Ayurveda (AIIA),5,68114,77006,Yantra Prajna Rasa Darsnih,BETA MADHUR
+SIH25025,Ministry of Ayush,All India Institute of Ayurveda (AIIA),6,72078,83940,WELLMINDS,Bidiwala Sajjad S
+SIH25025,Ministry of Ayush,All India Institute of Ayurveda (AIIA),7,72886,79540,ZERVIA001,Jerom V
+SIH25026,Ministry of Ayush,All India Institute of Ayurveda (AIIA),1,118704,101029,Passsengers,Mohammad Azeem Wani
+SIH25026,Ministry of Ayush,All India Institute of Ayurveda (AIIA),2,120175,102718,CodeVaidyas_VIT,PAUL AYUSH BARUN
+SIH25026,Ministry of Ayush,All India Institute of Ayurveda (AIIA),3,71130,61411,CodeTech,JAMKHANDI VAISHNAVI CHANDRASHEK
+SIH25026,Ministry of Ayush,All India Institute of Ayurveda (AIIA),4,107796,105555,BugBusters_PB,Poojan Bhuva
+SIH25026,Ministry of Ayush,All India Institute of Ayurveda (AIIA),5,63950,55396,KLAMP,Lakshika Bourai
+SIH25026,Ministry of Ayush,All India Institute of Ayurveda (AIIA),6,95294,104405,FALCONS-KPRIET,PRAEMJITH PR
+SIH25026,Ministry of Ayush,All India Institute of Ayurveda (AIIA),7,119172,70996,Zenith Spectra,Abhigyan Kumar Baruah
+SIH25027,Ministry of Ayush,All India Institute of Ayurveda (AIIA),1,104597,72423,Knights,Kunal Kr Dubey
+SIH25027,Ministry of Ayush,All India Institute of Ayurveda (AIIA),2,105285,85163,GuptaSquad06,Aryan Srivastava
+SIH25027,Ministry of Ayush,All India Institute of Ayurveda (AIIA),3,107739,73642,Team Mediminds,Ummidi Anusha
+SIH25027,Ministry of Ayush,All India Institute of Ayurveda (AIIA),4,105291,65460,Cracked Devs,Anurag Pandey
+SIH25027,Ministry of Ayush,All India Institute of Ayurveda (AIIA),5,86969,97577,Optimisers,Ritesh Kushwaha
+SIH25027,Ministry of Ayush,All India Institute of Ayurveda (AIIA),6,102211,99916,Return_Zero,Harsh Kumar
+SIH25027,Ministry of Ayush,All India Institute of Ayurveda (AIIA),7,103501,77680,codeveda18,M Sri Amulya
+SIH25028,Government of Jharkhand,Department of Higher and Technical Education,1,78023,78202,Team Diamond..,Sudhanshu Sonkar
+SIH25028,Government of Jharkhand,Department of Higher and Technical Education,2,72476,87256,SyntaxSugar,Prabhakar Singh
+SIH25028,Government of Jharkhand,Department of Higher and Technical Education,3,77417,70481,BrainBox,Bhvya Vaish
+SIH25028,Government of Jharkhand,Department of Higher and Technical Education,4,78114,88322,CAFFEIN OVERFLOW,Sanjeevan Kumar
+SIH25028,Government of Jharkhand,Department of Higher and Technical Education,5,74963,69542,SyncChron,Ayush Singh
+SIH25028,Government of Jharkhand,Department of Higher and Technical Education,6,75287,70211,Hack Smack,S. Sanjith Kumar
+SIH25028,Government of Jharkhand,Department of Higher and Technical Education,7,75747,87049,NoClash Coders,Rohit Sanjay Devk
+SIH25030,Government of Jharkhand,Department of Higher and Technical Education,1,65223,76618,FarmAura,Keerthan Shetty
+SIH25030,Government of Jharkhand,Department of Higher and Technical Education,2,64615,61462,AI AVENGERS.,V. ARAVIND AA
+SIH25030,Government of Jharkhand,Department of Higher and Technical Education,3,59932,58610,VISION GUARD,Keerthana G
+SIH25030,Government of Jharkhand,Department of Higher and Technical Education,4,63829,57801,AGRO NOVA.,Keshav Garg
+SIH25030,Government of Jharkhand,Department of Higher and Technical Education,5,59910,58665,Elite Heroic,Kamalakannan Se
+SIH25030,Government of Jharkhand,Department of Higher and Technical Education,6,63397,62467,Krishi Drishti,Utkarsh Tripathi
+SIH25030,Government of Jharkhand,Department of Higher and Technical Education,7,71504,80476,Tech_Farm Network,Velan R
+SIH25030,Government of Jharkhand,Department of Higher and Technical Education,8,79848,65681,KrishiMitra-AI,Shivani kumari
+SIH25034,Ministry of Corporate Affairs,Ministry of Corporate Affairs (MoCA),1,89617,72358,Cresentron,Mohamed Muzzam K J
+SIH25034,Ministry of Corporate Affairs,Ministry of Corporate Affairs (MoCA),2,91073,101092,Team Havoc,Joy Banerjee 
+SIH25034,Ministry of Corporate Affairs,Ministry of Corporate Affairs (MoCA),3,82362,49951,Tech Bridge,Soukarsha Dutta
+SIH25034,Ministry of Corporate Affairs,Ministry of Corporate Affairs (MoCA),4,88269,57770,Matrix_GTBIT,Manvi Jain
+SIH25034,Ministry of Corporate Affairs,Ministry of Corporate Affairs (MoCA),5,89517,100287,Formidables,Nigamananda Josh
+SIH25034,Ministry of Corporate Affairs,Ministry of Corporate Affairs (MoCA),6,89940,66369,MetaMinds@25,Vaishnavi Shukla
+SIH25034,Ministry of Corporate Affairs,Ministry of Corporate Affairs (MoCA),7,89233,85314,NEXGEN@silicon,Subhasish prahara
+SIH25046,Government of Odisha,Electronics IT Department,1,99541,104164,RECYLO,D Karthik Raj
+SIH25046,Government of Odisha,Electronics IT Department,2,83361,91164,OpenBin,Mohammad Akba Shareef
+SIH25046,Government of Odisha,Electronics IT Department,3,80656,97788,RIT MECH Mavericks,SHANMUGAPAN
+SIH25046,Government of Odisha,Electronics IT Department,4,82313,79906,CtrlOhm,Jagan Kumar Swa
+SIH25046,Government of Odisha,Electronics IT Department,5,100157,102994,ONLY BRAINS,JEEVANANDAM
+SIH25046,Government of Odisha,Electronics IT Department,6,99579,103698,TechxTitanss,Sandeep Kumar D
+SIH25046,Government of Odisha,Electronics IT Department,7,85675,96235,SmartBinX Team,Abdul Sami
+SIH25048,Government of Odisha,Electronics IT Department,1,67483,60042,Eklavyaa,Aashi Chaudhary
+SIH25048,Government of Odisha,Electronics IT Department,2,69751,53226,Edu Quest,Harshika Sahay
+SIH25048,Government of Odisha,Electronics IT Department,3,67051,79899,MATRIXXX,Yash Dhadge
+SIH25048,Government of Odisha,Electronics IT Department,4,60369,58426,Code Catalysts25,Rajanna Das
+SIH25048,Government of Odisha,Electronics IT Department,5,67164,53919,INNOSPHERES,V. AKSHAYA RE
+SIH25048,Government of Odisha,Electronics IT Department,6,68350,65455,Void Crew,Kovid Tyagi
+SIH25048,Government of Odisha,Electronics IT Department,7,68899,81915,ByteForce-,Sarthak Dilip Deo
+SIH25048,Government of Odisha,Electronics IT Department,8,77969,75153,LEARN LEAP,Deeksha DS
+SIH25052,Government of Odisha,Electronics IT Department,1,65346,64261,CulturaX,Ishwari Ganpatrao Shinde 
+SIH25052,Government of Odisha,Electronics IT Department,3,62851,71821,INVENTIVE FUSION,PADMANETHRA
+SIH25052,Government of Odisha,Electronics IT Department,4,71199,72696,Invariants,Yash Tejraj Thorat
+SIH25052,Government of Odisha,Electronics IT Department,5,85886,79554,Augmentors Creators,Suryakanta Mahan
+SIH25052,Government of Odisha,Electronics IT Department,7,92024,103161,Script-Kiddies_abesec,Deepak Dubey
+SIH25052,Government of Odisha,Electronics IT Department,2,57764,52076,Aarambh,Nisarga.P
+SIH25052,Government of Odisha,Electronics IT Department,6,120798,80741,Tictactoe,Naman Modi
+SIH25054,"Ministry of Consumer Affairs, Food Public Distribution (MoCA,F&PD)","National Test House,Department of Consumer Affairs",1,120255,115211,Vortex_25,Umang Sharma
+SIH25054,"Ministry of Consumer Affairs, Food Public Distribution (MoCA,F&PD)","National Test House,Department of Consumer Affairs",2,61897,64075,Watt the Hack,Aashish Kumar
+SIH25054,"Ministry of Consumer Affairs, Food Public Distribution (MoCA,F&PD)","National Test House,Department of Consumer Affairs",3,75732,69740,RIVAL TEAM,BALUGURI NAGASANDEEP
+SIH25054,"Ministry of Consumer Affairs, Food Public Distribution (MoCA,F&PD)","National Test House,Department of Consumer Affairs",4,77938,76084,Arcana,Anup Kumar Pand
+SIH25054,"Ministry of Consumer Affairs, Food Public Distribution (MoCA,F&PD)","National Test House,Department of Consumer Affairs",5,58841,55184,Binary_Builders,Sanket Gulab Pati
+SIH25054,"Ministry of Consumer Affairs, Food Public Distribution (MoCA,F&PD)","National Test House,Department of Consumer Affairs",6,60098,59375,SparkX_1,Gharse Akash Am
+SIH25054,"Ministry of Consumer Affairs, Food Public Distribution (MoCA,F&PD)","National Test House,Department of Consumer Affairs",7,59477,52329,Inovators,Gauri Shivaji Sonawane
+SIH25054,"Ministry of Consumer Affairs, Food Public Distribution (MoCA,F&PD)","National Test House,Department of Consumer Affairs",8,63703,50408,Ampere Artisans,M.MOSES
+SIH25057,"Ministry of Consumer Affairs, Food Public Distribution (MoCA,F&PD)",Department of Consumer Affairs (DoCA),1,84683,92431,RULEBREAKERS,SIVABALAN M
+SIH25057,"Ministry of Consumer Affairs, Food Public Distribution (MoCA,F&PD)",Department of Consumer Affairs (DoCA),2,105738,68499,KRISHINETRA, Kriten Singhal
+SIH25057,"Ministry of Consumer Affairs, Food Public Distribution (MoCA,F&PD)",Department of Consumer Affairs (DoCA),3,114673,58909,Barak 6,Girish Anil Bhole
+SIH25057,"Ministry of Consumer Affairs, Food Public Distribution (MoCA,F&PD)",Department of Consumer Affairs (DoCA),4,116782,53476,SafeSecure,VISHNU S
+SIH25057,"Ministry of Consumer Affairs, Food Public Distribution (MoCA,F&PD)",Department of Consumer Affairs (DoCA),5,118301,64229,Code Nirvana,Srinjoy Roy
+SIH25057,"Ministry of Consumer Affairs, Food Public Distribution (MoCA,F&PD)",Department of Consumer Affairs (DoCA),6,130203,58534,0 AA-Synapse,Dishita Dilip Ghu
+SIH25057,"Ministry of Consumer Affairs, Food Public Distribution (MoCA,F&PD)",Department of Consumer Affairs (DoCA),7,127165,98502,TeamAxiom,Soham Mehta
+SIH25058,"Ministry of Consumer Affairs, Food Public Distribution (MoCA,F&PD)",Department of Consumer Affairs (DoCA),1,114829,58176,The_Zenithors,THENDRAL R
+SIH25058,"Ministry of Consumer Affairs, Food Public Distribution (MoCA,F&PD)",Department of Consumer Affairs (DoCA),2,70092,56711,The Qubits,Mihir Jadhav
+SIH25058,"Ministry of Consumer Affairs, Food Public Distribution (MoCA,F&PD)",Department of Consumer Affairs (DoCA),3,118342,79959,WeighOUT,Arpit kumar kham
+SIH25058,"Ministry of Consumer Affairs, Food Public Distribution (MoCA,F&PD)",Department of Consumer Affairs (DoCA),4,106952,90107,Code Sparrow,Vinit Paras Pandy
+SIH25058,"Ministry of Consumer Affairs, Food Public Distribution (MoCA,F&PD)",Department of Consumer Affairs (DoCA),5,117985,77259,Doomsday,Garvit Arora
+SIH25058,"Ministry of Consumer Affairs, Food Public Distribution (MoCA,F&PD)",Department of Consumer Affairs (DoCA),6,116277,77101,TRUSTSCALE,KEERTHIKA A
+SIH25058,"Ministry of Consumer Affairs, Food Public Distribution (MoCA,F&PD)",Department of Consumer Affairs (DoCA),7,116964,115247,RISINGPHOENIX077,Kiruthika S 
+SIH25059,Ministry of Social Justice Empowerment (MoSJE),Department of Social Justice Empowerment (DoSJE),1,91080,72483,Data_CodeBlitz,Suyash Gupta
+SIH25059,Ministry of Social Justice Empowerment (MoSJE),Department of Social Justice Empowerment (DoSJE),2,90733,92503,Data_Leviathan,Banita Kumari Ro
+SIH25059,Ministry of Social Justice Empowerment (MoSJE),Department of Social Justice Empowerment (DoSJE),3,91483,53374,AVISAC,G.Vandana
+SIH25059,Ministry of Social Justice Empowerment (MoSJE),Department of Social Justice Empowerment (DoSJE),4,92062,66690,InnovatorsX,Sahil Bhagwat
+SIH25059,Ministry of Social Justice Empowerment (MoSJE),Department of Social Justice Empowerment (DoSJE),5,92212,61942,tech4transparency,Akash Kumar Pan
+SIH25059,Ministry of Social Justice Empowerment (MoSJE),Department of Social Justice Empowerment (DoSJE),6,90630,58101,Smart Inclusive Learners,Huda kousar
+SIH25059,Ministry of Social Justice Empowerment (MoSJE),Department of Social Justice Empowerment (DoSJE),7,91520,79443,TECHWAVE CREW,JAY TIWARI
+SIH25060,Ministry of Social Justice Empowerment (MoSJE),Department of Social Justice Empowerment (DoSJE),1,64981,71716,ECO INNOVATORZ,Kirutthiga KM
+SIH25060,Ministry of Social Justice Empowerment (MoSJE),Department of Social Justice Empowerment (DoSJE),2,57419,49911,Hackara,Madhumita
+SIH25060,Ministry of Social Justice Empowerment (MoSJE),Department of Social Justice Empowerment (DoSJE),3,67163,77881,Trash formers,ARVINDH C V
+SIH25060,Ministry of Social Justice Empowerment (MoSJE),Department of Social Justice Empowerment (DoSJE),4,60660,60928,Eco Gaurdians,M. Mohamed shih
+SIH25060,Ministry of Social Justice Empowerment (MoSJE),Department of Social Justice Empowerment (DoSJE),5,64629,64650,Si Extractors,Sabarish T S
+SIH25060,Ministry of Social Justice Empowerment (MoSJE),Department of Social Justice Empowerment (DoSJE),6,80473,72756,Clean India Coders,DONDLA VINAY
+SIH25060,Ministry of Social Justice Empowerment (MoSJE),Department of Social Justice Empowerment (DoSJE),7,81453,53212,Rage,Ashutosh kumar
+SIH25060,Ministry of Social Justice Empowerment (MoSJE),Department of Social Justice Empowerment (DoSJE),8,60591,64037,SMARTBIN SQUADS,Ramagiri Ramya
+SIH25067,Ministry of Jal Shakti (MoJS),Central Ground Water Board (CGWB),1,117132,96542,Solve321,Tarushi Agarwal
+SIH25067,Ministry of Jal Shakti (MoJS),Central Ground Water Board (CGWB),2,117260,91362,GritForce,Kandhuri Sai Rasa
+SIH25067,Ministry of Jal Shakti (MoJS),Central Ground Water Board (CGWB),3,114214,57787,NEXORA_GX,Souvik Sinhababu 
+SIH25067,Ministry of Jal Shakti (MoJS),Central Ground Water Board (CGWB),4,58860,57545,TigerBytes,Akriti Singh Parih
+SIH25067,Ministry of Jal Shakti (MoJS),Central Ground Water Board (CGWB),5,93835,102036,NEERMALYA,Atmaj Ashok Suryavanshi
+SIH25067,Ministry of Jal Shakti (MoJS),Central Ground Water Board (CGWB),6,91917,95702,H2Know_,Riya Jain
+SIH25067,Ministry of Jal Shakti (MoJS),Central Ground Water Board (CGWB),7,117072,53459,BANX2,AKASH KUMAR GUPTA
+SIH25068,Ministry of Jal Shakti (MoJS),Central Ground Water Board (CGWB),1,106377,64893,NovaSix_25,HANSIKAA S
+SIH25068,Ministry of Jal Shakti (MoJS),Central Ground Water Board (CGWB),2,111277,80797,Vesper void,Ayush Ranjan
+SIH25068,Ministry of Jal Shakti (MoJS),Central Ground Water Board (CGWB),3,112821,105407,CodeRangers VJTI,Aditya Kulkarni
+SIH25068,Ministry of Jal Shakti (MoJS),Central Ground Water Board (CGWB),4,104929,55767,XRONOS,Snehashish Saha
+SIH25068,Ministry of Jal Shakti (MoJS),Central Ground Water Board (CGWB),5,104973,98605,Innoversz,Aditya Dubey
+SIH25068,Ministry of Jal Shakti (MoJS),Central Ground Water Board (CGWB),6,105157,102404,DevTokens,Ronak Sudhakar Salekar
+SIH25068,Ministry of Jal Shakti (MoJS),Central Ground Water Board (CGWB),7,105484,86221,Placeholder,Keerthana Mahesh
+SIH25068,Ministry of Jal Shakti (MoJS),Central Ground Water Board (CGWB),8,113921,113385,flowState,Priyanshu Kumar
+SIH25069,Ministry of Mines,Jawaharlal Nehru Aluminium Research Development and Design Centre (JNARDDC),1,121000,66147,ForkLords_80,Sameer Shelar
+SIH25069,Ministry of Mines,Jawaharlal Nehru Aluminium Research Development and Design Centre (JNARDDC),2,66055,61657,AXEFORTUNE,MUKESH KUMA
+SIH25069,Ministry of Mines,Jawaharlal Nehru Aluminium Research Development and Design Centre (JNARDDC),3,83983,50297,M_SharK,Ayan Ahmad Faro
+SIH25069,Ministry of Mines,Jawaharlal Nehru Aluminium Research Development and Design Centre (JNARDDC),4,120616,85585,Team Hydra-1,V. Wujjwal Reddy
+SIH25069,Ministry of Mines,Jawaharlal Nehru Aluminium Research Development and Design Centre (JNARDDC),5,120784,58245,LOGIC HEIST,DEEPAK K
+SIH25069,Ministry of Mines,Jawaharlal Nehru Aluminium Research Development and Design Centre (JNARDDC),6,121004,76620,Abdullah Hussain Shaikh, Abdullah Hussain Shaikh
+SIH25069,Ministry of Mines,Jawaharlal Nehru Aluminium Research Development and Design Centre (JNARDDC),7,116307,114505,Arctic Monkeys,Poorvi Khanduja
+SIH25092,Government of Jammu and Kashmir,Higher Education Department,1,68864,64787,Vidhyut,Anurag Gupta
+SIH25092,Government of Jammu and Kashmir,Higher Education Department,2,69052,54859,print(â€œPositivityâ€),Preetis Debnath
+SIH25092,Government of Jammu and Kashmir,Higher Education Department,3,68942,74237,TeenTitans,Aditya Patil
+SIH25092,Government of Jammu and Kashmir,Higher Education Department,4,69148,64045,VibeOS,Shreeyan Raina
+SIH25092,Government of Jammu and Kashmir,Higher Education Department,5,69162,80102,LNC,SNIHITA NANDI
+SIH25092,Government of Jammu and Kashmir,Higher Education Department,6,68924,74420,Mind-Short,Devansh Chowdh
+SIH25092,Government of Jammu and Kashmir,Higher Education Department,7,68949,81995,ASTEROID DESTROYER,Gauriyansh Kalra
+SIH25094,Government of Jammu and Kashmir,Higher Education Department,1,73454,67074,MargDarshak2.0,Akshay Mishra
+SIH25094,Government of Jammu and Kashmir,Higher Education Department,2,64177,59780,Team Combiners,Saksham
+SIH25094,Government of Jammu and Kashmir,Higher Education Department,3,73342,59913,Null Pointers.,Satyam Mishra
+SIH25094,Government of Jammu and Kashmir,Higher Education Department,4,77744,71542,CodeBlooded01,Yash Bhure
+SIH25094,Government of Jammu and Kashmir,Higher Education Department,5,63930,59952,Tech Pioneers,C. Rajeswar
+SIH25094,Government of Jammu and Kashmir,Higher Education Department,6,67166,68306,CletÃ¸verse_25,Cletus Rajkumar
+SIH25094,Government of Jammu and Kashmir,Higher Education Department,7,70220,81147,ASPIRO,Athulyashri R
+SIH25103,Government of Rajasthan,Directorate of Technical Education (DTE),1,87198,51073,TLE_Smashers,CH SHAKISH
+SIH25103,Government of Rajasthan,Directorate of Technical Education (DTE),2,98136,84258,BUDDHI@,Navneet Shreya
+SIH25103,Government of Rajasthan,Directorate of Technical Education (DTE),3,114066,78937,LogicLabs,Jani Shivansh Ashishbhai 
+SIH25103,Government of Rajasthan,Directorate of Technical Education (DTE),4,113582,105168,StackNova_abesec,Anjali Chauhan
+SIH25103,Government of Rajasthan,Directorate of Technical Education (DTE),5,93935,69056,M_Perplexus,Divyansh
+SIH25103,Government of Rajasthan,Directorate of Technical Education (DTE),6,60032,60836,COSQ,Vikas Jha
+SIH25103,Government of Rajasthan,Directorate of Technical Education (DTE),7,97169,88518,The Chaos,Akash Vijay Awac
+SIH25105,Government of Rajasthan,Directorate of Technical Education (DTE),1,96121,100922,CODE INFINITY CIF,KARUPPUCHAM AISHWARYA
+SIH25105,Government of Rajasthan,Directorate of Technical Education (DTE),2,107413,107626,Eco Campus,Gaurav Dhananjay Mahajan
+SIH25105,Government of Rajasthan,Directorate of Technical Education (DTE),3,99174,65496,TeamCodeBlooded,Prathamesh Malu
+SIH25105,Government of Rajasthan,Directorate of Technical Education (DTE),4,117415,71589,Return 0_af98a,Harshita Yadav
+SIH25105,Government of Rajasthan,Directorate of Technical Education (DTE),5,103863,83353,Garuda.,Priyanshu Jha
+SIH25105,Government of Rajasthan,Directorate of Technical Education (DTE),6,120774,67167,NeoByte,Saidul Hussain Choudhury
+SIH25105,Government of Rajasthan,Directorate of Technical Education (DTE),7,90548,64529,TorchBearers,Bakshi Vaishvik
+SIH25105,Government of Rajasthan,Directorate of Technical Education (DTE),8,112710,87003,Synergy_1,Amit Singh
+SIH25162,Bharat Electronics Limited(BEL),Product Development Innovation Centre (PDIC),1,127868,55809,NeuralShural,Vishrut Grover
+SIH25162,Bharat Electronics Limited(BEL),Product Development Innovation Centre (PDIC),2,70693,59310,NextGen Coders 1,Md Saif Alam
+SIH25162,Bharat Electronics Limited(BEL),Product Development Innovation Centre (PDIC),3,126502,97283,Win Diesel,Alfiya Fatima
+SIH25162,Bharat Electronics Limited(BEL),Product Development Innovation Centre (PDIC),4,127379,58842,429_BeginCoding,Dhruv Sarin
+SIH25162,Bharat Electronics Limited(BEL),Product Development Innovation Centre (PDIC),5,127472,64168,HackFit Fam,Pratyush Sarkar
+SIH25162,Bharat Electronics Limited(BEL),Product Development Innovation Centre (PDIC),6,93064,103686,CoddeeX,Ayush Ojha
+SIH25162,Bharat Electronics Limited(BEL),Product Development Innovation Centre (PDIC),7,114976,86279,Infinty Crew,LOKESH M
+SIH25163,Bharat Electronics Limited(BEL),Product Development Innovation Centre (PDIC),1,71315,82755,Future Minds-nmrec,G.Ramani
+SIH25163,Bharat Electronics Limited(BEL),Product Development Innovation Centre (PDIC),2,127131,64864,Team 4i,Yash rakesh punm 
+SIH25163,Bharat Electronics Limited(BEL),Product Development Innovation Centre (PDIC),3,128525,62824,HackFinity007,Khandhediya Dev Rajeshbhai
+SIH25163,Bharat Electronics Limited(BEL),Product Development Innovation Centre (PDIC),4,123142,90131,BlueMinds2025,Kiruthik M R
+SIH25163,Bharat Electronics Limited(BEL),Product Development Innovation Centre (PDIC),5,123843,61398,AlgoDynamics,Atharva Rane
+SIH25163,Bharat Electronics Limited(BEL),Product Development Innovation Centre (PDIC),6,84860,94142,Algo_Alliance,Rutuj Rahul Rotka
+SIH25163,Bharat Electronics Limited(BEL),Product Development Innovation Centre (PDIC),7,95666,101372,BROSCODE,Nayan Mohan M S
+SIH25164,Bharat Electronics Limited(BEL),Central Research Laboratory,1,123174,69503,Team Hive,Krishaay Jois
+SIH25164,Bharat Electronics Limited(BEL),Central Research Laboratory,2,123236,98402,Palantier,Tanish Saroj
+SIH25164,Bharat Electronics Limited(BEL),Central Research Laboratory,3,123506,52865,QUANTUM PROXIES,SOHAM J SURYAWANSHI
+SIH25164,Bharat Electronics Limited(BEL),Central Research Laboratory,4,127757,51021,Code Alchemists,Aditya Kiran Baga
+SIH25164,Bharat Electronics Limited(BEL),Central Research Laboratory,5,124191,102262,Undercover Coders,Shaurya Mehra
+SIH25164,Bharat Electronics Limited(BEL),Central Research Laboratory,6,108679,84283,Tech_Titan's,Ansari Khushboo Madina
+SIH25164,Bharat Electronics Limited(BEL),Central Research Laboratory,7,111963,61077,Oppenheimer Architecture,Deepmalya Mallic
+SIH25167,Government of Chhattisgarh,"Higher Education Department,Â Chhattisgarh",1,124176,69130,Hackoho,kishan shrivastava
+SIH25167,Government of Chhattisgarh,"Higher Education Department,Â Chhattisgarh",2,124571,75267,Team EleVision,Abhinav Nirapure
+SIH25167,Government of Chhattisgarh,"Higher Education Department,Â Chhattisgarh",3,121863,116930,TrunkAlert,Aman Kaiwart
+SIH25167,Government of Chhattisgarh,"Higher Education Department,Â Chhattisgarh",4,131373,69781,Saksham 2.0,Shobhit Maurya
+SIH25167,Government of Chhattisgarh,"Higher Education Department,Â Chhattisgarh",5,123401,91261,ELECTROELITES,AAKASH S
+SIH25167,Government of Chhattisgarh,"Higher Education Department,Â Chhattisgarh",6,122855,92486,MAVERICK - HITS,Thirisha.R
+SIH25167,Government of Chhattisgarh,"Higher Education Department,Â Chhattisgarh",7,122853,78544,THE TUSKER FORCE,Sagufta Begum
+SIH25180,Ministry of Coal (MoC),Central Mine Planning Design Institute Limited (CMPDI),1,107179,61073,Team Zero 1,Evan Lemuel 
+SIH25180,Ministry of Coal (MoC),Central Mine Planning Design Institute Limited (CMPDI),2,122144,72110,ByteSpace,David Samuvel Si
+SIH25180,Ministry of Coal (MoC),Central Mine Planning Design Institute Limited (CMPDI),3,126281,61476,Neeldrishti,Tamasi Ghosh
+SIH25180,Ministry of Coal (MoC),Central Mine Planning Design Institute Limited (CMPDI),4,130674,64226,NEXML,Mohammad Owai
+SIH25180,Ministry of Coal (MoC),Central Mine Planning Design Institute Limited (CMPDI),5,125092,99350,Quantum Realm,Nishchal Soni
+SIH25180,Ministry of Coal (MoC),Central Mine Planning Design Institute Limited (CMPDI),6,131573,54073,8-Bit,Somay
+SIH25180,Ministry of Coal (MoC),Central Mine Planning Design Institute Limited (CMPDI),7,131746,117835,ARANYA_RAKSHAK,Shreenath Kadam
+SIH25180,Ministry of Coal (MoC),Central Mine Planning Design Institute Limited (CMPDI),8,131819,81783,Team TechPirates,Rahul Malik
+SIH25181,Ministry of Coal (MoC),Central Mine Planning Design Institute Limited (CMPDI),1,129402,54409,ICONIC SIX,JAWAHAR S J
+SIH25181,Ministry of Coal (MoC),Central Mine Planning Design Institute Limited (CMPDI),2,126584,86955,Ctrl+Alt+Elite_AU,Md.Riyaz
+SIH25181,Ministry of Coal (MoC),Central Mine Planning Design Institute Limited (CMPDI),3,132146,85473,Nemo_,Harshit Jha
+SIH25181,Ministry of Coal (MoC),Central Mine Planning Design Institute Limited (CMPDI),4,125353,65771,Codecrafters$,Vishwanath Raja Chanda
+SIH25181,Ministry of Coal (MoC),Central Mine Planning Design Institute Limited (CMPDI),5,127955,102387,_Vajra Dev_,Janardhan Verma
+SIH25181,Ministry of Coal (MoC),Central Mine Planning Design Institute Limited (CMPDI),7,129196,107206,SyntaxSisters,Bhumika Mehta
+SIH25181,Ministry of Coal (MoC),Central Mine Planning Design Institute Limited (CMPDI),6,129144,60153,Burnout,Dhruv Sane
+SIH25182,Ministry of Coal (MoC),Central Mine Planning Design Institute Limited (CMPDI),1,131017,79092,CodeSolderRepeat,Tanush Dhiraj Ma
+SIH25182,Ministry of Coal (MoC),Central Mine Planning Design Institute Limited (CMPDI),2,122198,88364,IronMinds, Krishna Raj M
+SIH25182,Ministry of Coal (MoC),Central Mine Planning Design Institute Limited (CMPDI),3,109860,112079,TECH TANKERS,SURENDHAR.V
+SIH25182,Ministry of Coal (MoC),Central Mine Planning Design Institute Limited (CMPDI),4,121239,55872,VEL MOTIVES,Savarna K
+SIH25182,Ministry of Coal (MoC),Central Mine Planning Design Institute Limited (CMPDI),5,123782,117924,InfoKnights,Ankush
+SIH25182,Ministry of Coal (MoC),Central Mine Planning Design Institute Limited (CMPDI),6,124710,62785,818_VijayVeer,Yash Jain
+SIH25182,Ministry of Coal (MoC),Central Mine Planning Design Institute Limited (CMPDI),7,124863,116393,Safeguard Engineers,DHARSAN S
+SIH25182,Ministry of Coal (MoC),Central Mine Planning Design Institute Limited (CMPDI),8,131586,73986,NoName,Amogh Saxena
+SIH25201,Ministry of Skill Development and Entrepreneurship (MSDE),Ministry of Skill Development and Entrepreneurship (MSDE) in association with National Council for Vocational Education and Training (NCVET),1,121459,93419,Surakshachakra,Shrivastav Ansh
+SIH25201,Ministry of Skill Development and Entrepreneurship (MSDE),Ministry of Skill Development and Entrepreneurship (MSDE) in association with National Council for Vocational Education and Training (NCVET),2,128203,72544,Open AI,RIA JAMES
+SIH25201,Ministry of Skill Development and Entrepreneurship (MSDE),Ministry of Skill Development and Entrepreneurship (MSDE) in association with National Council for Vocational Education and Training (NCVET),3,108860,106385,AZEROX,Venkatanathan Varadharajan
+SIH25201,Ministry of Skill Development and Entrepreneurship (MSDE),Ministry of Skill Development and Entrepreneurship (MSDE) in association with National Council for Vocational Education and Training (NCVET),4,132535,110451,EcoBridges,Thakkar Vrunda Ashokbhai
+SIH25201,Ministry of Skill Development and Entrepreneurship (MSDE),Ministry of Skill Development and Entrepreneurship (MSDE) in association with National Council for Vocational Education and Training (NCVET),5,131897,80054,TAC trion,Mohit
+SIH25201,Ministry of Skill Development and Entrepreneurship (MSDE),Ministry of Skill Development and Entrepreneurship (MSDE) in association with National Council for Vocational Education and Training (NCVET),6,124026,85059,Code Catalyst',Kshitij kumar
+SIH25201,Ministry of Skill Development and Entrepreneurship (MSDE),Ministry of Skill Development and Entrepreneurship (MSDE) in association with National Council for Vocational Education and Training (NCVET),7,103004,53650,Legendary Hackathon Developers,Prathamesh Rahul
+SIH25202,Ministry of Skill Development and Entrepreneurship (MSDE),Ministry of Skill Development and Entrepreneurship (MSDE) in association with National Council for Vocational Education and Training (NCVET),1,120901,103122,@SkillSphere,Arya Devkar
+SIH25202,Ministry of Skill Development and Entrepreneurship (MSDE),Ministry of Skill Development and Entrepreneurship (MSDE) in association with National Council for Vocational Education and Training (NCVET),2,128912,61641,Fusion6,Shreya Varne
+SIH25202,Ministry of Skill Development and Entrepreneurship (MSDE),Ministry of Skill Development and Entrepreneurship (MSDE) in association with National Council for Vocational Education and Training (NCVET),3,129826,58388,Code Slayers,jaimin detroja
+SIH25202,Ministry of Skill Development and Entrepreneurship (MSDE),Ministry of Skill Development and Entrepreneurship (MSDE) in association with National Council for Vocational Education and Training (NCVET),4,129974,67088,Cluster Innovators,Mohit
+SIH25202,Ministry of Skill Development and Entrepreneurship (MSDE),Ministry of Skill Development and Entrepreneurship (MSDE) in association with National Council for Vocational Education and Training (NCVET),5,123905,64240,STATUS200.,Mohd Adnan Kha
+SIH25202,Ministry of Skill Development and Entrepreneurship (MSDE),Ministry of Skill Development and Entrepreneurship (MSDE) in association with National Council for Vocational Education and Training (NCVET),6,125672,92090,PRAGYA.,KANISHKHAA M 
+SIH25202,Ministry of Skill Development and Entrepreneurship (MSDE),Ministry of Skill Development and Entrepreneurship (MSDE) in association with National Council for Vocational Education and Training (NCVET),7,128681,105230,CUDAS,Suthar Yagna Kalpeshbhai
+SIH25203,Ministry of Skill Development and Entrepreneurship (MSDE),Ministry of Skill Development and Entrepreneurship (MSDE) in association with National Council for Vocational Education and Training (NCVET),1,102306,109009,UP TITANS,Paras Sonkar
+SIH25203,Ministry of Skill Development and Entrepreneurship (MSDE),Ministry of Skill Development and Entrepreneurship (MSDE) in association with National Council for Vocational Education and Training (NCVET),2,87659,92927,BinaryDNF,Mohammad Zaid Sayyed
+SIH25203,Ministry of Skill Development and Entrepreneurship (MSDE),Ministry of Skill Development and Entrepreneurship (MSDE) in association with National Council for Vocational Education and Training (NCVET),3,104426,58671,MindsHacker,Dipraj Bhupal Ma
+SIH25203,Ministry of Skill Development and Entrepreneurship (MSDE),Ministry of Skill Development and Entrepreneurship (MSDE) in association with National Council for Vocational Education and Training (NCVET),4,108396,112236,Zekrom,Sugeshan K
+SIH25203,Ministry of Skill Development and Entrepreneurship (MSDE),Ministry of Skill Development and Entrepreneurship (MSDE) in association with National Council for Vocational Education and Training (NCVET),5,101175,104619,NXT GEN INNOVATORS,SIVASAKTHI D
+SIH25203,Ministry of Skill Development and Entrepreneurship (MSDE),Ministry of Skill Development and Entrepreneurship (MSDE) in association with National Council for Vocational Education and Training (NCVET),6,97199,98702,Multisfera,Utkarsha Thakur
+SIH25203,Ministry of Skill Development and Entrepreneurship (MSDE),Ministry of Skill Development and Entrepreneurship (MSDE) in association with National Council for Vocational Education and Training (NCVET),7,89281,57155,SU Nova AI,Lavanya Singhal 
+SIH25203,Ministry of Skill Development and Entrepreneurship (MSDE),Ministry of Skill Development and Entrepreneurship (MSDE) in association with National Council for Vocational Education and Training (NCVET),8,103444,101484,ShabdSetu- Aanchal VU,Anchal Gupta
+SIH25208,Ministry of Steel (MoS),Steel Authority of India Limited (SAIL),1,109694,110631,Enigmaa,Hargun Preet Sing
+SIH25208,Ministry of Steel (MoS),Steel Authority of India Limited (SAIL),2,64217,56861,BitZ_GX,Aditya Kumar Gu
+SIH25208,Ministry of Steel (MoS),Steel Authority of India Limited (SAIL),3,115410,112953,MiddlewaresX,Gargie Singh
+SIH25208,Ministry of Steel (MoS),Steel Authority of India Limited (SAIL),4,108413,99250,testers,Mannyamgari Soh
+SIH25208,Ministry of Steel (MoS),Steel Authority of India Limited (SAIL),5,109368,64085,TEAM OG1,Sai Charan Devise
+SIH25208,Ministry of Steel (MoS),Steel Authority of India Limited (SAIL),6,118936,113449,HungerHackers,Kashish Bodhwan
+SIH25208,Ministry of Steel (MoS),Steel Authority of India Limited (SAIL),7,114460,67519,Demystifier_,Ansh Gupta
+SIH25209,Ministry of Steel (MoS),Steel Authority of India Limited (SAIL),1,132961,93161,Team Shaurya,Gaurav Manohar Salunke
+SIH25209,Ministry of Steel (MoS),Steel Authority of India Limited (SAIL),2,132667,106867,Carpe Diem,Sruthi R
+SIH25209,Ministry of Steel (MoS),Steel Authority of India Limited (SAIL),3,132690,113187,TACTIX EXECUTIX,Mohana Divya S
+SIH25209,Ministry of Steel (MoS),Steel Authority of India Limited (SAIL),4,132767,76115,Nova Dawn,Abeshek Sriramn
+SIH25209,Ministry of Steel (MoS),Steel Authority of India Limited (SAIL),5,133051,83641,Navix,Mahima
+SIH25209,Ministry of Steel (MoS),Steel Authority of India Limited (SAIL),6,109991,106980,SAGAR,PRAVEEN KUMA
+SIH25209,Ministry of Steel (MoS),Steel Authority of India Limited (SAIL),7,104720,75558,Midnight Hackers,S Naveen Kumar
+SIH25212,Ministry of Home Affairs (MHA),National Disaster Response Force (NDRF),1,125375,61589,Genius Grid,Partho Ghoshal
+SIH25212,Ministry of Home Affairs (MHA),National Disaster Response Force (NDRF),2,123138,70275,Six in Sync,Harshit Prajapati
+SIH25212,Ministry of Home Affairs (MHA),National Disaster Response Force (NDRF),3,125910,87179,Unit-H,ANGELIN AJAY RAVIN R
+SIH25212,Ministry of Home Affairs (MHA),National Disaster Response Force (NDRF),4,127821,85718,InnoFarm,Arpan Mukherjee 
+SIH25212,Ministry of Home Affairs (MHA),National Disaster Response Force (NDRF),5,130785,52732,THE_DEBUGGERS,Srinjoy Pramanik
+SIH25212,Ministry of Home Affairs (MHA),National Disaster Response Force (NDRF),6,124933,89306,MonitorX,Hemlata Mansingh Rathod
+SIH25213,Ministry of Home Affairs (MHA),National Disaster Response Force (NDRF),1,63991,74633,TASK TITANS_X,Mounica S
+SIH25213,Ministry of Home Affairs (MHA),National Disaster Response Force (NDRF),2,70570,53252,Loader Logic,Sneha Singh
+SIH25213,Ministry of Home Affairs (MHA),National Disaster Response Force (NDRF),3,125396,72516,SHADOW,DAKSHIN R
+SIH25213,Ministry of Home Affairs (MHA),National Disaster Response Force (NDRF),4,128383,94697,Coded Chaos,Yash Ashish Patil
+SIH25213,Ministry of Home Affairs (MHA),National Disaster Response Force (NDRF),5,121352,87538,BLUE NOVA,K.BANUPRIYA
+SIH25213,Ministry of Home Affairs (MHA),National Disaster Response Force (NDRF),6,131759,103379,INCYBIC,Tejas Sudhir Badg
+SIH25214,Ministry of Home Affairs (MHA),National Disaster Response Force (NDRF),1,121403,94502,Vital Radar,Aditya Dolas
+SIH25214,Ministry of Home Affairs (MHA),National Disaster Response Force (NDRF),2,109415,109766,CREOVATE2025,Anjali T
+SIH25214,Ministry of Home Affairs (MHA),National Disaster Response Force (NDRF),3,132393,110892,VEGA,ArjunC
+SIH25214,Ministry of Home Affairs (MHA),National Disaster Response Force (NDRF),4,131229,57484,Yantrika_07,Amnender Singh
+SIH25214,Ministry of Home Affairs (MHA),National Disaster Response Force (NDRF),5,108596,74811,NAVAMESH,Shreyash Prusty
+SIH25214,Ministry of Home Affairs (MHA),National Disaster Response Force (NDRF),6,117572,107226,ECHO VISION,ELSON BENANZ A
+SIH25214,Ministry of Home Affairs (MHA),National Disaster Response Force (NDRF),7,109026,104565,RESCUE RANGER,BATTENA ANUS
+SIH25218,Ministry of Science and Technology,Department of Science and Technology (DST),1,65517,77495,MES SYNAPSE,YATHU KRISHN K
+SIH25218,Ministry of Science and Technology,Department of Science and Technology (DST),2,95023,94420,Team Neura,Avyukt Soni
+SIH25218,Ministry of Science and Technology,Department of Science and Technology (DST),3,105524,78075,Instant Ideators,Vansh Bargotra
+SIH25218,Ministry of Science and Technology,Department of Science and Technology (DST),4,108949,107090,MediSight,Ayush Vinod Shin
+SIH25218,Ministry of Science and Technology,Department of Science and Technology (DST),5,117642,115530,ECO CURE, Gajula Niharika
+SIH25218,Ministry of Science and Technology,Department of Science and Technology (DST),6,121443,62653,818_SARAI Sentinels,Raju Sarwa
+SIH25218,Ministry of Science and Technology,Department of Science and Technology (DST),7,63840,69550,INNOVENTURES SQUAD,Karpagam.A
+SIH25220,Ministry of Science and Technology,Department of Science and Technology (DST),1,110646,70925,CodeDivas,M.Monikha
+SIH25220,Ministry of Science and Technology,Department of Science and Technology (DST),2,123113,92543,Amrit Sparsh,Shashwat Mishra
+SIH25220,Ministry of Science and Technology,Department of Science and Technology (DST),3,110156,64708,Path_Finders_,DEVIKA PRASA
+SIH25220,Ministry of Science and Technology,Department of Science and Technology (DST),4,119823,93577,NeuraX25AM05,RITHIKA S
+SIH25220,Ministry of Science and Technology,Department of Science and Technology (DST),5,122109,111815,TECHACIOUS,Utkarsh Malviya
+SIH25220,Ministry of Science and Technology,Department of Science and Technology (DST),6,132044,57622,The Goldenbirdz,Anukalp Dwivedi
+SIH25220,Ministry of Science and Technology,Department of Science and Technology (DST),7,127206,99834,INEVITABLE,AJAY RATHORE
+SIH25247,Ministry of Social Justice Empowerment(MoSJE),Indian Sign Language Research Training Centre(ISLRTC),1,129436,94943,NAMO NIRVANA,HARSH YADAV
+SIH25247,Ministry of Social Justice Empowerment(MoSJE),Indian Sign Language Research Training Centre(ISLRTC),2,130140,102184,RVCE06,Manohar D S
+SIH25247,Ministry of Social Justice Empowerment(MoSJE),Indian Sign Language Research Training Centre(ISLRTC),3,130500,99069,Hind Ke Sitara,Dipu Kumar Singh
+SIH25247,Ministry of Social Justice Empowerment(MoSJE),Indian Sign Language Research Training Centre(ISLRTC),4,125098,113358,JARSH-X 360,Harini R
+SIH25247,Ministry of Social Justice Empowerment(MoSJE),Indian Sign Language Research Training Centre(ISLRTC),5,124119,116307,SPECTRA ELITE,Ujjwal Tiwari
+SIH25247,Ministry of Social Justice Empowerment(MoSJE),Indian Sign Language Research Training Centre(ISLRTC),6,126184,57139,BRAINY_BUNCH,Shankar Das
+SIH25247,Ministry of Social Justice Empowerment(MoSJE),Indian Sign Language Research Training Centre(ISLRTC),7,122871,106972,OASYS,Aditya Dapakara
+SIH25258,Ministry of Home Affairs (MHA),National Disaster Management Authority (NDMA) (DM Division),4,113289,78622,Brute forces,Dharamkar Shruth  Shre
+SIH25258,Ministry of Home Affairs (MHA),National Disaster Management Authority (NDMA) (DM Division),1,129134,82907,GeoVison,Raj
+SIH25258,Ministry of Home Affairs (MHA),National Disaster Management Authority (NDMA) (DM Division),2,128847,99465,Disaster X,SHAAN CHOUB
+SIH25258,Ministry of Home Affairs (MHA),National Disaster Management Authority (NDMA) (DM Division),3,132857,102401,_Team Epsilon_,Keerat Malhotra
+SIH25258,Ministry of Home Affairs (MHA),National Disaster Management Authority (NDMA) (DM Division),5,128833,74792,Data_Jarvis GGV,Abhishek singh
+SIH25258,Ministry of Home Affairs (MHA),National Disaster Management Authority (NDMA) (DM Division),6,120085,95987,The Warrior's,Shubhangi Priyam
+SIH25258,Ministry of Home Affairs (MHA),National Disaster Management Authority (NDMA) (DM Division),7,109463,85477,ECO_VISION,MANASA
+SIH25005,"Ministry of Fisheries, Animal Husbandry Dairying",Department of Animal Husbandry Dairying (DoAH&D),1,91868,69203,CircuitVision,Abishek K
+SIH25005,"Ministry of Fisheries, Animal Husbandry Dairying",Department of Animal Husbandry Dairying (DoAH&D),2,99211,100442,ProSentinelX,Rupesh Nitin Bha
+SIH25005,"Ministry of Fisheries, Animal Husbandry Dairying",Department of Animal Husbandry Dairying (DoAH&D),3,96770,62070,The_Algo_MindsT05,Saptadipa Mondal
+SIH25005,"Ministry of Fisheries, Animal Husbandry Dairying",Department of Animal Husbandry Dairying (DoAH&D),4,95480,99919,SkyNRG,Nancy Srivastava
+SIH25005,"Ministry of Fisheries, Animal Husbandry Dairying",Department of Animal Husbandry Dairying (DoAH&D),5,106439,101635,MANTRA INNOVATE,RAUSHAN RAJ
+SIH25005,"Ministry of Fisheries, Animal Husbandry Dairying",Department of Animal Husbandry Dairying (DoAH&D),6,68137,66143,Global Trotters,T.Nithin Chakrava
+SIH25005,"Ministry of Fisheries, Animal Husbandry Dairying",Department of Animal Husbandry Dairying (DoAH&D),7,114025,73567,17_INNOVEXA,SELVA PRADHE RAJAN S
+SIH25006,"Ministry of Fisheries, Animal Husbandry Dairying",Department of Animal Husbandry Dairying (DoAH&D),1,116838,73204,Linear_Depression,Vedica Mrudul
+SIH25006,"Ministry of Fisheries, Animal Husbandry Dairying",Department of Animal Husbandry Dairying (DoAH&D),2,97608,92174,System Crash,P Prajwal
+SIH25006,"Ministry of Fisheries, Animal Husbandry Dairying",Department of Animal Husbandry Dairying (DoAH&D),3,117430,102821,hack-nest,Aditya baghel
+SIH25006,"Ministry of Fisheries, Animal Husbandry Dairying",Department of Animal Husbandry Dairying (DoAH&D),4,99915,96639,Tech-Spartans,Ashish Dixit 
+SIH25006,"Ministry of Fisheries, Animal Husbandry Dairying",Department of Animal Husbandry Dairying (DoAH&D),5,70130,51095,Hexa Hustlers,Vansh Kakkar
+SIH25006,"Ministry of Fisheries, Animal Husbandry Dairying",Department of Animal Husbandry Dairying (DoAH&D),6,96076,72272,Sai Eco Trackers,Akshitha R
+SIH25006,"Ministry of Fisheries, Animal Husbandry Dairying",Department of Animal Husbandry Dairying (DoAH&D),7,120538,74601,CodeBlooded_1,Prachi Khatri
+SIH25007,"Ministry of Fisheries, Animal Husbandry Dairying",Department of Animal Husbandry Dairying (DoAH&D),1,61454,58314,Multimedia,Kunal Patil
+SIH25007,"Ministry of Fisheries, Animal Husbandry Dairying",Department of Animal Husbandry Dairying (DoAH&D),2,69355,65515,The Synapse,Debajyoti Karmak
+SIH25007,"Ministry of Fisheries, Animal Husbandry Dairying",Department of Animal Husbandry Dairying (DoAH&D),3,112150,93240,Cattle-Coders,Bhavya Kumar Si
+SIH25007,"Ministry of Fisheries, Animal Husbandry Dairying",Department of Animal Husbandry Dairying (DoAH&D),4,89611,102517,RVU Crew,Yashas B R
+SIH25007,"Ministry of Fisheries, Animal Husbandry Dairying",Department of Animal Husbandry Dairying (DoAH&D),5,79579,85915,Gati,Dhairya Gothi
+SIH25007,"Ministry of Fisheries, Animal Husbandry Dairying",Department of Animal Husbandry Dairying (DoAH&D),6,95523,71824,Code Champ,Madhavan S
+SIH25007,"Ministry of Fisheries, Animal Husbandry Dairying",Department of Animal Husbandry Dairying (DoAH&D),7,117496,66289,Kabhi Code Kabhi Bug,Deepta Surya Kol
+SIH25073,Ministry of Youth Affairs and Sports,Sports Authority of India (SAI),1,84578,60478,OffScript,Nitin Kothiyal
+SIH25073,Ministry of Youth Affairs and Sports,Sports Authority of India (SAI),2,94833,58858,AthletiScan,Aradhya Ray
+SIH25073,Ministry of Youth Affairs and Sports,Sports Authority of India (SAI),3,95755,88387,Tech3,Mohammadjissan kharadi
+SIH25073,Ministry of Youth Affairs and Sports,Sports Authority of India (SAI),4,97391,96605,Codecians,Affan Ali Khan
+SIH25073,Ministry of Youth Affairs and Sports,Sports Authority of India (SAI),5,96388,100027,Antardrishti,Asmit Banik
+SIH25073,Ministry of Youth Affairs and Sports,Sports Authority of India (SAI),6,96785,65373,Pratidwandhi,Amritya Rajwansh
+SIH25073,Ministry of Youth Affairs and Sports,Sports Authority of India (SAI),7,97654,74568,SportSage,Bhumika Anil Kam
+SIH25073,Ministry of Youth Affairs and Sports,Sports Authority of India (SAI),8,97892,93795,SIH SPARKS__22,Deepika M 
+SIH25151,Ministry of Social Justice Empowerment(MoSJE),Samajik Nyay Aur Shashaktikaran Vibhag,1,127031,71500,VoyageVault,Shraddhesh Dalal
+SIH25151,Ministry of Social Justice Empowerment(MoSJE),Samajik Nyay Aur Shashaktikaran Vibhag,2,103153,85103,Data7rek,J.Vidya
+SIH25151,Ministry of Social Justice Empowerment(MoSJE),Samajik Nyay Aur Shashaktikaran Vibhag,3,97157,63470,TeamNPC,Duggi Venkata Siv Lalitaaditya
+SIH25151,Ministry of Social Justice Empowerment(MoSJE),Samajik Nyay Aur Shashaktikaran Vibhag,4,121978,94062,Coding Gurus VESIT,Darshan Vishnu Khapekar
+SIH25151,Ministry of Social Justice Empowerment(MoSJE),Samajik Nyay Aur Shashaktikaran Vibhag,5,122892,57194,Tessaract,Sakthi Mukesh T
+SIH25151,Ministry of Social Justice Empowerment(MoSJE),Samajik Nyay Aur Shashaktikaran Vibhag,6,104345,96319,Team Vitamin,Deepshikha Bhard
+SIH25151,Ministry of Social Justice Empowerment(MoSJE),Samajik Nyay Aur Shashaktikaran Vibhag,7,122672,94008,TheInfiniteLoopers,Eeshaan Das
+SIH25152,Ministry of Social Justice Empowerment(MoSJE),Samajik Nyay Aur Shashaktikaran Vibhag,1,128212,55954,LogicX,Priyanshu Barik
+SIH25152,Ministry of Social Justice Empowerment(MoSJE),Samajik Nyay Aur Shashaktikaran Vibhag,2,126297,60434,VedaVerse07,Aman Parida
+SIH25152,Ministry of Social Justice Empowerment(MoSJE),Samajik Nyay Aur Shashaktikaran Vibhag,3,127823,93710,Winter is ours,Krrish Rastogi
+SIH25152,Ministry of Social Justice Empowerment(MoSJE),Samajik Nyay Aur Shashaktikaran Vibhag,4,115362,52806,Marg Vedha 3.O,Aditya Bhausaheb Akolkar
+SIH25152,Ministry of Social Justice Empowerment(MoSJE),Samajik Nyay Aur Shashaktikaran Vibhag,5,131292,60298,The gitFather,Mayuresh Chavan
+SIH25152,Ministry of Social Justice Empowerment(MoSJE),Samajik Nyay Aur Shashaktikaran Vibhag,6,131034,54553,Quba,Piyush Rishi
+SIH25152,Ministry of Social Justice Empowerment(MoSJE),Samajik Nyay Aur Shashaktikaran Vibhag,7,130319,71383,GRIDXPERTS,HARIPRASAD S
+SIH25227,Ministry of Science and Technology,Department of Science and Technology (DST),1,119456,92052,INNO_CORES SIHAD016,KAVINILA L
+SIH25227,Ministry of Science and Technology,Department of Science and Technology (DST),2,126472,118184,ClutchSIH,CV Balaji
+SIH25227,Ministry of Science and Technology,Department of Science and Technology (DST),3,110799,105444,Tech_Titans_11,Ahana Bhattachar
+SIH25227,Ministry of Science and Technology,Department of Science and Technology (DST),4,111040,94721,HYDRA 2924, JAI AKASH S
+SIH25227,Ministry of Science and Technology,Department of Science and Technology (DST),5,121223,52968,Code4Nation,Logamanyan R
+SIH25227,Ministry of Science and Technology,Department of Science and Technology (DST),6,124367,64442,NOOBLERS,Soumyadip Das
+SIH25227,Ministry of Science and Technology,Department of Science and Technology (DST),7,123232,88649,Team Pahadi,Dishant Dhyani
+SIH25255,Ministry of Home Affairs (MHA),Border Security Force(BSF),1,121568,64185,GRAINZ,MD SHAHBAZ HASHMI ANSAR
+SIH25255,Ministry of Home Affairs (MHA),Border Security Force(BSF),2,123285,104664,Kanyarasi India,Yuvan Sai Yegired
+SIH25255,Ministry of Home Affairs (MHA),Border Security Force(BSF),3,129291,76848,MEGATRON-,Jashwanth N
+SIH25255,Ministry of Home Affairs (MHA),Border Security Force(BSF),4,117117,111175,QuantumSparks,Neel Gholkar
+SIH25255,Ministry of Home Affairs (MHA),Border Security Force(BSF),5,125118,115445,PlayMetrics,Srijan Prasad
+SIH25255,Ministry of Home Affairs (MHA),Border Security Force(BSF),6,131127,54060,TEAM_FALCONS,Keshab Sharma
+SIH25255,Ministry of Home Affairs (MHA),Border Security Force(BSF),7,124876,63389,D - IPSKAM,MOHAMADH THIHYATHUL KALABEE A
+SIH25256,Ministry of Home Affairs (MHA),Indo-Tibetan Border Police (ITBP),1,126574,56637,TECHNOVATORS,PRIYANSHU SIN
+SIH25256,Ministry of Home Affairs (MHA),Indo-Tibetan Border Police (ITBP),2,127297,77303,CRYONEX,ARCHANA S
+SIH25256,Ministry of Home Affairs (MHA),Indo-Tibetan Border Police (ITBP),3,127502,114419,team BENZENE,rayon biswas
+SIH25256,Ministry of Home Affairs (MHA),Indo-Tibetan Border Police (ITBP),4,128400,50069,SparkTrons,Aayushi Pandey
+SIH25256,Ministry of Home Affairs (MHA),Indo-Tibetan Border Police (ITBP),5,129949,118138,Vaanyukthi,Balamurugan V J
+SIH25256,Ministry of Home Affairs (MHA),Indo-Tibetan Border Police (ITBP),6,132795,108022,TEAM VAYU,Vaibhavi Shrikant Dolas
+SIH25256,Ministry of Home Affairs (MHA),Indo-Tibetan Border Police (ITBP),7,130731,81930,SLASHERS,Christopher S
+SIH25257,Ministry of Home Affairs (MHA),CyberInformation Security Division (I4C),1,122598,70988,SKYVAR,Vishaal A
+SIH25257,Ministry of Home Affairs (MHA),CyberInformation Security Division (I4C),2,124209,99788,Skills@404,Akash Trivedi
+SIH25257,Ministry of Home Affairs (MHA),CyberInformation Security Division (I4C),3,114286,113614,Mitrava,MAYUR MANGE  BABAR
+SIH25257,Ministry of Home Affairs (MHA),CyberInformation Security Division (I4C),4,125819,57201,Algoritm army,A Abhijith
+SIH25257,Ministry of Home Affairs (MHA),CyberInformation Security Division (I4C),5,127752,97519,EPIC ELECTRON,Yashaswini CK
+SIH25257,Ministry of Home Affairs (MHA),CyberInformation Security Division (I4C),6,111229,108771,Trinetra1,Ayansh pandey
+SIH25257,Ministry of Home Affairs (MHA),CyberInformation Security Division (I4C),7,128731,98849,Mindstorms,Suraj Gola
+SIH25221,Ministry of Science and Technology,Department of Science and Technology (DST),1,124869,69086,IGNITER,SIYA BHALALA
+SIH25221,Ministry of Science and Technology,Department of Science and Technology (DST),2,124406,93050,VirtuVerse,Ayusha Suryawan
+SIH25221,Ministry of Science and Technology,Department of Science and Technology (DST),3,122949,51306,VERTEX,P Vinay
+SIH25221,Ministry of Science and Technology,Department of Science and Technology (DST),4,123724,115438,CodeRulers,Aaditya Singh
+SIH25221,Ministry of Science and Technology,Department of Science and Technology (DST),5,128478,65275,V R Warriors 923,Shreya R
+SIH25221,Ministry of Science and Technology,Department of Science and Technology (DST),6,129971,111891,THE HORIZON 2.0,Mohan SIngh Sek
+SIH25221,Ministry of Science and Technology,Department of Science and Technology (DST),7,124197,71395,Confidra,SARTHAK
+SIH25251,Ministry of Jal Shakti (MoJS),"National Mission for Clean Ganga (NMCG),_x000D_ DoWR, RD GR",1,126625,94110,VisionX@123,Pratik Mane
+SIH25251,Ministry of Jal Shakti (MoJS),"National Mission for Clean Ganga (NMCG),_x000D_ DoWR, RD GR",2,125918,97839,TEAM_AURAA,Saurav Dutta
+SIH25251,Ministry of Jal Shakti (MoJS),"National Mission for Clean Ganga (NMCG),_x000D_ DoWR, RD GR",3,124189,64710,RudraAstra,Rishi Raj Dixit
+SIH25251,Ministry of Jal Shakti (MoJS),"National Mission for Clean Ganga (NMCG),_x000D_ DoWR, RD GR",4,124512,117535,AkashPankh,Om Suresh Patki
+SIH25251,Ministry of Jal Shakti (MoJS),"National Mission for Clean Ganga (NMCG),_x000D_ DoWR, RD GR",5,124615,73279,Sky Sentinels,Vikram Prasad M
+SIH25251,Ministry of Jal Shakti (MoJS),"National Mission for Clean Ganga (NMCG),_x000D_ DoWR, RD GR",6,127876,118144,Coders hub,Sweda Keerthana
+SIH25251,Ministry of Jal Shakti (MoJS),"National Mission for Clean Ganga (NMCG),_x000D_ DoWR, RD GR",7,130806,99781,PYYONEERS,Oceania Kshetrim 
+SIH25228,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),1,122046,93177,VGNT_Info Innovators,Pujala Shiva Naga Abhishek Varma
+SIH25228,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),2,124000,88999,Midnight Sun,Krishnakant Kum
+SIH25228,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),3,114612,74737,UTKARSH,Aasritha Cherukur
+SIH25228,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),4,121107,98866,The Horizon Crew,Ritesh raj
+SIH25228,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),5,125636,56519,Ethervate,Archana Vinod
+SIH25228,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),6,127714,86938,The Neo,Baskar G
+SIH25228,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),7,111309,67535,Athens_,Hemadri Bhatnaga
+SIH25232,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),1,126520,66392,Waterloo,Soumyadipta Dey
+SIH25232,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),2,86148,93193,MineSector256,Abhinav k p
+SIH25232,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),3,114571,68749,ClassCompass,Anubhav Raj
+SIH25232,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),4,104396,108747,INDIAN UI,Anil Police Patil
+SIH25232,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),5,122116,74238,ZeroSphere,Roshan Kumar S
+SIH25232,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),6,111271,57935,VisionMakers,Rahul Godara
+SIH25232,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),7,75239,61160,CodeVyas,Anushka Pankaj G
+SIH25110,AICTE,"AICTE, MIC-Student Innovation-Blockchain Cybersecurity",1,75282,64004,Ascension,Animesh sahu
+SIH25110,AICTE,"AICTE, MIC-Student Innovation-Blockchain Cybersecurity",2,76204,63670,Bluenova,Aditi Gaonkar 
+SIH25110,AICTE,"AICTE, MIC-Student Innovation-Blockchain Cybersecurity",3,94970,101881,Cybo-krypters,HEMACHANDIR A
+SIH25110,AICTE,"AICTE, MIC-Student Innovation-Blockchain Cybersecurity",4,78986,50160,BytePilots,Nikita Anil Chaud
+SIH25110,AICTE,"AICTE, MIC-Student Innovation-Blockchain Cybersecurity",5,131707,73281,Carbonchain,Sana Samir Hussa Sheikh
+SIH25110,AICTE,"AICTE, MIC-Student Innovation-Blockchain Cybersecurity",6,118870,112161,The Chian Reapers,Aryan Singhal
+SIH25110,AICTE,"AICTE, MIC-Student Innovation-Blockchain Cybersecurity",7,132189,77332,Ataltra,Chetana Ingle
+SIH25112,AICTE,"AICTE, MIC-Student Innovation-Fitness Sports",1,88057,81527,TECHNO BRATS,Sruthi R
+SIH25112,AICTE,"AICTE, MIC-Student Innovation-Fitness Sports",2,101566,95464,Atomic Minds,Anirudh Dhanunja
+SIH25112,AICTE,"AICTE, MIC-Student Innovation-Fitness Sports",3,74986,87097,Biomech Titans,Khushal Grover
+SIH25112,AICTE,"AICTE, MIC-Student Innovation-Fitness Sports",4,63065,71134,The Innovatex,Yashwanth S
+SIH25112,AICTE,"AICTE, MIC-Student Innovation-Fitness Sports",5,92698,73454,Technovass,Abinaya L
+SIH25112,AICTE,"AICTE, MIC-Student Innovation-Fitness Sports",6,99786,64669,Heath guardians,Bhanderi maitri
+SIH25112,AICTE,"AICTE, MIC-Student Innovation-Fitness Sports",7,94705,57455,Ayur yojana,Vaishnavi S
+SIH25113,AICTE,"AICTE, MIC-Student Innovation-Heritage Culture",1,72059,63148,Team Elevare,SREEDHARSHIN A
+SIH25113,AICTE,"AICTE, MIC-Student Innovation-Heritage Culture",2,118227,80411,Krishi_mithr,Nishath
+SIH25113,AICTE,"AICTE, MIC-Student Innovation-Heritage Culture",3,99707,76655,ZYRIC,Rohith Sai Vasi
+SIH25113,AICTE,"AICTE, MIC-Student Innovation-Heritage Culture",4,120931,102322,RVCE-26,Vineeth Rao
+SIH25113,AICTE,"AICTE, MIC-Student Innovation-Heritage Culture",5,91226,99586,Badmosh Logx,Yash Sachin Kinik
+SIH25113,AICTE,"AICTE, MIC-Student Innovation-Heritage Culture",6,123242,89846,THE CODE KANYAS,SONALI SHARM 
+SIH25113,AICTE,"AICTE, MIC-Student Innovation-Heritage Culture",7,120721,97568,AMPED_UP_F3,Shivam Rathaur
+SIH25116,AICTE,"AICTE, MIC-Student Innovation-Renewable / Sustainable Energy",1,85951,99886,Tech Tunkers,Michael Justus W
+SIH25116,AICTE,"AICTE, MIC-Student Innovation-Renewable / Sustainable Energy",2,89400,61575,Ecocellupak_T16,Prasun Majumder
+SIH25116,AICTE,"AICTE, MIC-Student Innovation-Renewable / Sustainable Energy",3,85350,98513,AIRJUNA,Amisha Singh
+SIH25116,AICTE,"AICTE, MIC-Student Innovation-Renewable / Sustainable Energy",4,88932,87005,Solflow,Atharva Manoj Ch
+SIH25116,AICTE,"AICTE, MIC-Student Innovation-Renewable / Sustainable Energy",5,71730,84576,Solo Levelling 2.0,Karthikesh Harido
+SIH25116,AICTE,"AICTE, MIC-Student Innovation-Renewable / Sustainable Energy",6,85460,99837,Transit Transformers,Abhishek Shinde
+SIH25116,AICTE,"AICTE, MIC-Student Innovation-Renewable / Sustainable Energy",7,74440,85130,BioRhodeon,Vikrant Kale
+SIH25118,AICTE,"AICTE, MIC-Student Innovation-Smart Automation",1,87581,66378,Evolve_biomimetic,Shantanu Choukse
+SIH25118,AICTE,"AICTE, MIC-Student Innovation-Smart Automation",2,72712,75056,FABSPECTOR,Thirumurugan PL
+SIH25118,AICTE,"AICTE, MIC-Student Innovation-Smart Automation",3,58129,51564,HAWKSIGHT,Princi R
+SIH25118,AICTE,"AICTE, MIC-Student Innovation-Smart Automation",4,60888,52880,FALCON,Mhasawade Pratik Uttam
+SIH25118,AICTE,"AICTE, MIC-Student Innovation-Smart Automation",5,71218,88530,LicenceGuard,ADITYA PRASH CHANDAGADE
+SIH25118,AICTE,"AICTE, MIC-Student Innovation-Smart Automation",6,57639,51318,Cracked Nerds,Ashwath Soni
+SIH25118,AICTE,"AICTE, MIC-Student Innovation-Smart Automation",7,65963,79294,E SWAP TRIKE,REBIN R MATHE
+SIH25119,AICTE,"AICTE, MIC-Student Innovation-Smart Vehicles",1,103970,64947,Sahara,Aditya Singh Pate
+SIH25119,AICTE,"AICTE, MIC-Student Innovation-Smart Vehicles",2,61283,57302,Six Sirensâ€™ Call,Subhayu Panja
+SIH25119,AICTE,"AICTE, MIC-Student Innovation-Smart Vehicles",3,116311,88256,Trombipulor,Dhava Prasath M
+SIH25119,AICTE,"AICTE, MIC-Student Innovation-Smart Vehicles",4,91719,97719,INDRASYNC,Shivam Kumar M
+SIH25119,AICTE,"AICTE, MIC-Student Innovation-Smart Vehicles",5,88970,74063,Team Elite1,Mohmmad Husen Shedbalkar
+SIH25119,AICTE,"AICTE, MIC-Student Innovation-Smart Vehicles",6,91540,73874,Ctrl+C Vaazhga,KISHORE KUMA
+SIH25119,AICTE,"AICTE, MIC-Student Innovation-Smart Vehicles",7,87196,53351,cypherr,Sahil Vaishnav
+SIH25119,AICTE,"AICTE, MIC-Student Innovation-Smart Vehicles",8,90769,69038,_SHEBUILDS,Sheel Mridha
+SIH25121,AICTE,"AICTE, MIC-Student Innovation-Transportation Logistics",1,62224,62897,FLEX MODIFY SOLUTIONS,Vinay Kumar And
+SIH25121,AICTE,"AICTE, MIC-Student Innovation-Transportation Logistics",2,65450,75843,LOADSHIELD,KONDA AKHILA
+SIH25121,AICTE,"AICTE, MIC-Student Innovation-Transportation Logistics",3,70542,87856,Fresh_Flow,Sonali Shrikant Kumbhar
+SIH25121,AICTE,"AICTE, MIC-Student Innovation-Transportation Logistics",4,58802,55319,THE DEFIXER,MAHIMA NATARAJAN
+SIH25121,AICTE,"AICTE, MIC-Student Innovation-Transportation Logistics",5,63073,70986,TEAM CONQUERS,BALAABIRAMI
+SIH25121,AICTE,"AICTE, MIC-Student Innovation-Transportation Logistics",6,65110,73543,ObstaVision,Naina Matani
+SIH25121,AICTE,"AICTE, MIC-Student Innovation-Transportation Logistics",7,64687,54717,Mech Morphers,Syed Muzakkir S
+SIH25121,AICTE,"AICTE, MIC-Student Innovation-Transportation Logistics",8,79405,74375,NIVORANS,ASHWINTH G
+SIH25122,AICTE,"AICTE, MIC-Student Innovation-Disaster Management",1,94462,81438,DeepSight,Mohammed Furqa
+SIH25122,AICTE,"AICTE, MIC-Student Innovation-Disaster Management",2,110973,60215,Trilyonex,Aviral Srivastava
+SIH25122,AICTE,"AICTE, MIC-Student Innovation-Disaster Management",3,120643,70534,Power House*,Sanjeev S T
+SIH25122,AICTE,"AICTE, MIC-Student Innovation-Disaster Management",4,78776,75541,ALERT X,B HARISH
+SIH25122,AICTE,"AICTE, MIC-Student Innovation-Disaster Management",5,112156,88070,SOIL PROTECTORS,Anuja Suresh Moo 
+SIH25122,AICTE,"AICTE, MIC-Student Innovation-Disaster Management",6,97298,50764,InnovEarth,Chiranjeevi Chath Vasagiri
+SIH25122,AICTE,"AICTE, MIC-Student Innovation-Disaster Management",7,111923,105046,Rescrew,Divya
+SIH25124,AICTE,"AICTE, MIC-Student Innovation-Toys Games",1,128664,106498,AOT,Surendar K
+SIH25124,AICTE,"AICTE, MIC-Student Innovation-Toys Games",2,120377,116757,NeuroGaming Nexus_2026,Gayatri Subhalaxm
+SIH25124,AICTE,"AICTE, MIC-Student Innovation-Toys Games",3,89500,53852,SCOR7,Rudra Raut
+SIH25124,AICTE,"AICTE, MIC-Student Innovation-Toys Games",4,80025,92856,TEAM NEUROFUN,Salil Tiwari
+SIH25124,AICTE,"AICTE, MIC-Student Innovation-Toys Games",5,121177,52091,Synapse,Gagandeep Singh
+SIH25124,AICTE,"AICTE, MIC-Student Innovation-Toys Games",6,80860,88610,Mystic Mantras,Vaishnavi Pandey
+SIH25124,AICTE,"AICTE, MIC-Student Innovation-Toys Games",7,100570,81296,VANA PARAMAPADHAM,Logeswari. K
+SIH25124,AICTE,"AICTE, MIC-Student Innovation-Toys Games",8,108106,109969,Talking Blocks team SIH25,Aditya Upadhyay
+SIH25130,AICTE,"AICTE, MIC-Student Innovation-Heritage Culture",1,104244,91458,TATTVAVERSE_18,Shenbagaraja M
+SIH25130,AICTE,"AICTE, MIC-Student Innovation-Heritage Culture",2,96736,100406,_Netaji Ninjas_,Aryan
+SIH25130,AICTE,"AICTE, MIC-Student Innovation-Heritage Culture",3,103808,99188,Innovators Squad',Ranu
+SIH25130,AICTE,"AICTE, MIC-Student Innovation-Heritage Culture",4,77448,90953,BisiGitBaath,Ashutosh Bhat
+SIH25130,AICTE,"AICTE, MIC-Student Innovation-Heritage Culture",5,95919,79761,Hack'n'Hustle,Rishabh Vishwaka
+SIH25130,AICTE,"AICTE, MIC-Student Innovation-Heritage Culture",6,57784,50415,Roots Revival,Sneha Harariya
+SIH25130,AICTE,"AICTE, MIC-Student Innovation-Heritage Culture",7,99360,105569,SUKRIP,Kumari Ritu
+SIH25131,AICTE,"AICTE, MIC-Student Innovation-MedTech / BioTech / HealthTech",1,65178,51726,InternMatch AI,Dinesh 
+SIH25131,AICTE,"AICTE, MIC-Student Innovation-MedTech / BioTech / HealthTech",2,66054,64139,Team Optiverse,ANIKET KUMAR SINGH
+SIH25131,AICTE,"AICTE, MIC-Student Innovation-MedTech / BioTech / HealthTech",3,65222,62615,EUREKA 2.0,PARTHA SARAT MANNA
+SIH25131,AICTE,"AICTE, MIC-Student Innovation-MedTech / BioTech / HealthTech",4,65748,70537,Team DELTA_,Taiyyaba begum
+SIH25131,AICTE,"AICTE, MIC-Student Innovation-MedTech / BioTech / HealthTech",5,64543,66379,IT_WIZARDS,Plaban Mohanty
+SIH25131,AICTE,"AICTE, MIC-Student Innovation-MedTech / BioTech / HealthTech",6,68577,74825,STERILYENSE,GNANA DENCY
+SIH25131,AICTE,"AICTE, MIC-Student Innovation-MedTech / BioTech / HealthTech",7,77415,92068,Sign Talk AI,Sanya Ali
+SIH25131,AICTE,"AICTE, MIC-Student Innovation-MedTech / BioTech / HealthTech",8,66125,59383,BRAIN DRAINERS,AATHAVAN VALANARASU L
+SIH25133,AICTE,"AICTE, MIC-Student Innovation-Renewable / Sustainable Energy",1,60690,59681,THINK BYTE,Hemachandhra Maalendhran M
+SIH25133,AICTE,"AICTE, MIC-Student Innovation-Renewable / Sustainable Energy",2,107357,80434,SOLAR MASTERS,RAJAT VISHNOI
+SIH25133,AICTE,"AICTE, MIC-Student Innovation-Renewable / Sustainable Energy",3,119539,108743,Neuro Nexus-A,Omkar Prabhakar Gadekar
+SIH25133,AICTE,"AICTE, MIC-Student Innovation-Renewable / Sustainable Energy",4,92501,71250,POWER HOUSE 6,YOGESH P
+SIH25133,AICTE,"AICTE, MIC-Student Innovation-Renewable / Sustainable Energy",5,111910,113918,IDEA-IGNITERS,Meghana K
+SIH25133,AICTE,"AICTE, MIC-Student Innovation-Renewable / Sustainable Energy",6,115669,63123,LOCK INFINITY,S AKASH KUMA
+SIH25133,AICTE,"AICTE, MIC-Student Innovation-Renewable / Sustainable Energy",7,84294,76411,ORBIORA,Arjita Dutta
+SIH25133,AICTE,"AICTE, MIC-Student Innovation-Renewable / Sustainable Energy",8,117981,95641,Quarks-1,Giresh Branav S S
+SIH25134,AICTE,"AICTE, MIC-Student Innovation-Robotics and Drones",1,61804,68436,VisionX-01,Shreya Dhadbanja
+SIH25134,AICTE,"AICTE, MIC-Student Innovation-Robotics and Drones",2,121044,70646,Team Innovex,Vedanti Patil 
+SIH25134,AICTE,"AICTE, MIC-Student Innovation-Robotics and Drones",3,120421,97266,Maha Vaayu Innovations,Mansi Prashant Ghodekar
+SIH25134,AICTE,"AICTE, MIC-Student Innovation-Robotics and Drones",4,86027,80030,AirLink,Samrudhi Amol P
+SIH25134,AICTE,"AICTE, MIC-Student Innovation-Robotics and Drones",5,89038,100288,Urban Vision,Chitrala Abhishek
+SIH25134,AICTE,"AICTE, MIC-Student Innovation-Robotics and Drones",6,63959,68448,HackHersx,Charu Jain
+SIH25134,AICTE,"AICTE, MIC-Student Innovation-Robotics and Drones",7,120546,87066,Nuovo,Harshit Dua
+SIH25138,AICTE,"AICTE, MIC-Student Innovation-Transportation Logistics",1,60015,58366,ROUTE 360,Yogadharshini.R
+SIH25138,AICTE,"AICTE, MIC-Student Innovation-Transportation Logistics",2,71616,66280,Metro_Minds_1,Shashi Kumar Pen
+SIH25138,AICTE,"AICTE, MIC-Student Innovation-Transportation Logistics",3,72111,77725,Tech_Wizards,Swetha S
+SIH25138,AICTE,"AICTE, MIC-Student Innovation-Transportation Logistics",4,59890,52693,the ogs,P KARTHIK
+SIH25138,AICTE,"AICTE, MIC-Student Innovation-Transportation Logistics",5,63661,71291,REDOXX,Ankur Kumar Sin
+SIH25138,AICTE,"AICTE, MIC-Student Innovation-Transportation Logistics",6,80325,87772,CODE_CRUSADERS_7,PAYAL SANTOSH BAGADE
+SIH25138,AICTE,"AICTE, MIC-Student Innovation-Transportation Logistics",7,59799,61279,Tejas1,Chauhan Mohini Ramkishorsingh
+SIH25141,AICTE,"AICTE, MIC-Student Innovation-Toys Games",1,101661,79173,4FRIENDS,Tharun Venkata sa
+SIH25141,AICTE,"AICTE, MIC-Student Innovation-Toys Games",2,59983,62498,Envision,Maram Shashidha Reddy
+SIH25141,AICTE,"AICTE, MIC-Student Innovation-Toys Games",3,119185,103822,TEAM SuperNova,KOTHAPALLI LALITHA VISHN KAMESH
+SIH25141,AICTE,"AICTE, MIC-Student Innovation-Toys Games",4,90990,82516,Mind Canvas,Vishal Pal
+SIH25141,AICTE,"AICTE, MIC-Student Innovation-Toys Games",5,103914,69235,WaterGate,Sukhjeet Singh Ka 
+SIH25141,AICTE,"AICTE, MIC-Student Innovation-Toys Games",6,58140,53786,Echoes of Itihaas,Pemmasani Likhit Chowdary
+SIH25141,AICTE,"AICTE, MIC-Student Innovation-Toys Games",7,107144,54933,Cranium,Rahul Bajaj
+SIH25142,AICTE,"AICTE, MIC-Student Innovation-Space Technology",1,62306,61115,HEXA VITANS,A DHANISH RAZ
+SIH25142,AICTE,"AICTE, MIC-Student Innovation-Space Technology",2,63325,71686,Lunar Gaurdians,Ahash Lingam
+SIH25142,AICTE,"AICTE, MIC-Student Innovation-Space Technology",3,57917,51511,The Nonchalant,Krishna Chaurasia
+SIH25142,AICTE,"AICTE, MIC-Student Innovation-Space Technology",4,69333,56108,DIGISHAKTI,KASHISH DUA
+SIH25142,AICTE,"AICTE, MIC-Student Innovation-Space Technology",5,59064,52860,CodeOrbit,Kavita Kumari
+SIH25142,AICTE,"AICTE, MIC-Student Innovation-Space Technology",6,66249,56325,ALPHA MINDS,ABBURI NISHA CHOWDARY
+SIH25142,AICTE,"AICTE, MIC-Student Innovation-Space Technology",7,64012,64960,Team Codax_014,Rajdeep Deka
+SIH25215,AICTE,AICTE,1,123812,64091,Hexa-Core,Raman Rathore
+SIH25215,AICTE,AICTE,2,129228,84336,Team Optivis,Vaibhav Dwivedi
+SIH25215,AICTE,AICTE,3,130683,102511,Team renewovators,Vanshika Jaiswal
+SIH25215,AICTE,AICTE,4,122675,117667,Malineni Deshdevelopers,B.Sukanya
+SIH25215,AICTE,AICTE,5,129882,72881,LIFTAID,Aakash A
+SIH25215,AICTE,AICTE,6,123578,79787,VOLTARIS,RATHISH C
+SIH25215,AICTE,AICTE,7,122639,117662,Malineni Tech Agents,I.Viveka
+SIH25125,AICTE,"AICTE, MIC-Student Innovation-Space Technology",1,67343,55852,FLARES,K.SPHOORTI
+SIH25125,AICTE,"AICTE, MIC-Student Innovation-Space Technology",2,60646,65209,ASTRA TECHNOLOGY,VIKRAM R
+SIH25125,AICTE,"AICTE, MIC-Student Innovation-Space Technology",3,63693,54926,Team Toucan,SUBHRANIL DU 
+SIH25125,AICTE,"AICTE, MIC-Student Innovation-Space Technology",4,60406,62316,Sonic Thrusters,ALLEN JOHN DA J
+SIH25125,AICTE,"AICTE, MIC-Student Innovation-Space Technology",5,60426,62276,SPACE HACKERS,HARRISH NAND
+SIH25125,AICTE,"AICTE, MIC-Student Innovation-Space Technology",6,66971,72111,GALAXY DIGGERS,M SANTHIYA
+SIH25125,AICTE,"AICTE, MIC-Student Innovation-Space Technology",7,58677,54794,TECH FORGE,Shiva R
+SIH25229,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),1,102986,62940,RuntimeTerrors,Nirmala Shyam Pa
+SIH25229,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),2,126815,111149,Farm Copilot,Suman k
+SIH25229,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),3,106216,70733,Ctrl Alt Elite - EC,Pushkar
+SIH25229,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),4,65677,78352,Ethic Secura,Anfas Panginikad
+SIH25229,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),5,125726,100385,Tech_innovative,Shaikh Mohamma Samee
+SIH25229,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),6,60777,63222,Cyber Sentinels-1,V. Mythri
+SIH25229,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),7,78400,87216,DarkTrace Squad,Krish Mistry
+SIH25230,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),1,114604,105999,RIU_FALCON,Priyanshu Mishra
+SIH25230,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),2,124695,60427,Contrast,Shubh Raj Gupta
+SIH25230,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),3,124732,53059,MELDAS6PV,Divya Shivanand
+SIH25230,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),4,94748,102790,Team Cyfer Trace,Ishant Choudhary
+SIH25230,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),5,125021,91168,Root Force,Jandhyala Sai Rag Sri Charan
+SIH25230,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),6,123999,116100,Team SYSAN,Yashasvi singh Ra 
+SIH25230,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),7,127413,60180,Code-Ons,Saumya Agarwal
+SIH25231,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),1,106296,106205,Nemoire,Darshkumar Doba
+SIH25231,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),2,110311,84986,Wizards1,Shivansh Tyagi
+SIH25231,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),3,116693,104943,LOG KYA KAHENGEY,Anubhav Dubey
+SIH25231,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),4,126190,72511,Project Jalsetu,Mukul Rana
+SIH25231,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),5,125905,117747,HashItOut,Nitesh Patnaik
+SIH25231,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),6,104088,72136,Solution Squ@d,Vrund Patel
+SIH25231,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),7,100292,65885,Unbounded,Edupuganti Dheer Chandra
+SIH25233,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),1,125426,114859,Devillum,Niranjan V
+SIH25233,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),2,82402,99923,TeamGaruda,Pulikanti Gowtham Roy
+SIH25233,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),3,128075,108898,Vision2025,Sachin M
+SIH25233,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),4,128296,61629,Dharohar,Vaishali Tripathi
+SIH25233,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),5,127738,75831,Pragati Sankalp,G Pardha Sai
+SIH25233,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),6,123042,86906,TechVitals,Ishaan Sharma
+SIH25233,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),7,125323,109239,Ai Alchemists1,Muralimithun C S
+SIH25234,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),1,127314,113350,Trinetra915,Adwaita Patane
+SIH25234,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),2,126856,108784,Team Sentinels-A,Yuvraj Patangrao 
+SIH25234,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),3,127526,93608,The ARTIFICES,Shikhar Dixit
+SIH25234,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),4,127539,103350,Team Integrate,Jay Gujar
+SIH25234,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),5,121141,87510,AstraSight,Karman Arora
+SIH25234,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),6,126113,108192,TRISHOOL,Anshuman
+SIH25234,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),7,126195,107609,Team VulnHeist,Sivasakthi N
+SIH25235,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),1,128246,103206,_KHUSHAL_,Khushal Bhasin
+SIH25235,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),2,122447,98532,WaveWatchers,Swayam Manoj Sa
+SIH25235,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),3,126494,72664,MergeConflicts,Sachhidananda Mahapatro
+SIH25235,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),4,102323,103219,Cyber Phantoms,Karan Kadam
+SIH25235,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),5,125257,57134,Ctrl_ Alt_Elite,Rishabh Singh Ra
+SIH25235,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),6,112042,57578,Trash2techh,Yugant Goyal
+SIH25235,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),7,111505,111516,Pixel Pioneers_25,Laghima Vishwak
+SIH25236,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),1,125595,63587,Brute F0rce,K. S. Vikaas
+SIH25236,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),2,104270,73462,Team Firdous,Akash Bashir Mir
+SIH25236,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),3,124196,117812,Point Blank,Inchara J
+SIH25236,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),4,125337,114624,Hactivate%,Shreyas Agrawal
+SIH25236,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),5,109623,105510,Nitefuscator,Madhav Menon
+SIH25236,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),6,126756,65312,ALGORIXMIND,Priyanshu Sharma
+SIH25236,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),7,126376,89599,ByteRoots,Sreyoshi Pal
+SIH25237,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),1,122285,56357,QUARTET,KAVIYA V
+SIH25237,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),2,70646,67079,Code Blasters,Logesh R
+SIH25237,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),3,122634,86291,Lunar,Rajesh K
+SIH25237,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),4,126302,59568,Code Crews,Sanat Gupta
+SIH25237,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),5,108841,56394,SentinelX,Kanishka Singhal
+SIH25237,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),6,123646,60652,VAIML INNOVENTURES,DINESHRAM SM
+SIH25237,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),7,126439,89879,Console.Loggers,Anomitra Bhattach
+SIH25238,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),1,126989,57553,Winzo Coders,Anish Chandel
+SIH25238,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),2,128405,99480,ReLU or Not to ReLU,Shreeyash Shripad Dongarkar
+SIH25238,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),3,128150,118185,Dedsec_01,R Aswin
+SIH25238,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),4,104570,85054,CODEX_GH,AASHWIKA KHURANA
+SIH25238,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),5,125668,115832,CtrlCrew,Rohan Chandra Se
+SIH25238,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),6,125994,61058,CodeX@,Sayantan Biswas
+SIH25238,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),7,101521,102618,Cipher Xtech,SIVARANJANI.K
+SIH25239,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),1,119923,70610,ByteMeX,Harsh Kumar verm
+SIH25239,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),2,123501,99756,Bohar's Bit,Vedant Bhaskarrao Maske
+SIH25239,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),3,115670,64729,RELAY RACERS_25,Mathan SS
+SIH25239,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),4,121131,74465,IRIZ,Navin V
+SIH25239,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),5,127637,94837,Five_States,Bhoomi Agrawal
+SIH25239,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),6,116398,82709,Hackstreet_Boys,Rachit
+SIH25239,National Technical Research Organisation (NTRO),National Technical Research Organisation (NTRO),7,119147,86283,Nextgen coders 404,Mohamed jasim S
+SIH25099,MathWorks India Pvt. Ltd.,MathWorks India Pvt. Ltd.,1,71586,57164,Team E-Bhoomi_GX,Rup Roshan Jha
+SIH25099,MathWorks India Pvt. Ltd.,MathWorks India Pvt. Ltd.,2,58619,56407,HEXCORE,ANURAG SHAR
+SIH25099,MathWorks India Pvt. Ltd.,MathWorks India Pvt. Ltd.,3,58488,50144,Krishak,Shivani Gusain
+SIH25099,MathWorks India Pvt. Ltd.,MathWorks India Pvt. Ltd.,4,79371,86238,WhatTheHack,Aniket Mandal
+SIH25099,MathWorks India Pvt. Ltd.,MathWorks India Pvt. Ltd.,5,90573,68045,Team Knights,Rajesh Kumar
+SIH25099,MathWorks India Pvt. Ltd.,MathWorks India Pvt. Ltd.,6,78656,75153,LEARN LEAP,Deeksha DS
+SIH25099,MathWorks India Pvt. Ltd.,MathWorks India Pvt. Ltd.,7,90579,95175,KRISHI-DRISHTI2,SUJAL SANJAYKUMAR PATEL
+SIH25100,MathWorks India Pvt. Ltd.,MathWorks India Pvt. Ltd.,1,116483,99843,Team Gridlock,Bharat Kumar Sax
+SIH25100,MathWorks India Pvt. Ltd.,MathWorks India Pvt. Ltd.,2,118685,116396,TwinX,Aakanksha Arun Sutrave
+SIH25100,MathWorks India Pvt. Ltd.,MathWorks India Pvt. Ltd.,3,95180,87817,DInnorviaX,Tejasvini Ashok M
+SIH25100,MathWorks India Pvt. Ltd.,MathWorks India Pvt. Ltd.,4,93954,103414,Nirmaan Bharat,Khushi Malhotra
+SIH25100,MathWorks India Pvt. Ltd.,MathWorks India Pvt. Ltd.,5,94992,64691,Kernel Knights,Anurag Jaiswal
+SIH25100,MathWorks India Pvt. Ltd.,MathWorks India Pvt. Ltd.,6,101139,85854,ZenTechs,Devansh Ranjan
+SIH25100,MathWorks India Pvt. Ltd.,MathWorks India Pvt. Ltd.,7,58179,54155,Madhav28,Khushi Parmar
+SIH25206,Ministry of Mines,Hindustan Copper Limited (HCL),1,132570,66115,ARKA!,Junaid Momin
+SIH25206,Ministry of Mines,Hindustan Copper Limited (HCL),2,114965,72389,INNOAURA,Yokeshwaran A
+SIH25206,Ministry of Mines,Hindustan Copper Limited (HCL),3,130761,78201,Khagesvara,Tanishq Verma
+SIH25206,Ministry of Mines,Hindustan Copper Limited (HCL),4,129366,93656,Team Neuro,Nilesh Sanyasi
+SIH25206,Ministry of Mines,Hindustan Copper Limited (HCL),5,122939,86274,THE STRAWHATS,Mithun kumar B
+SIH25206,Ministry of Mines,Hindustan Copper Limited (HCL),6,123900,86296,Code drizzlers,Shiva harish C
+SIH25206,Ministry of Mines,Hindustan Copper Limited (HCL),7,123997,76550,Phoenix_404,Divya Shree S
+SIH25039,Ministry of Earth Sciences (MoES),Indian National Centre for Ocean Information Services (INCOIS),1,81146,51457,CoastGuardians,Roshan Ajith
+SIH25039,Ministry of Earth Sciences (MoES),Indian National Centre for Ocean Information Services (INCOIS),2,95211,76859,SagarSetu,CHEVURI JAHN
+SIH25039,Ministry of Earth Sciences (MoES),Indian National Centre for Ocean Information Services (INCOIS),3,92123,55607,7MOD3,Tejas Mehra
+SIH25039,Ministry of Earth Sciences (MoES),Indian National Centre for Ocean Information Services (INCOIS),4,93487,53526,AquaX,Mradul Tiwari
+SIH25039,Ministry of Earth Sciences (MoES),Indian National Centre for Ocean Information Services (INCOIS),5,93520,52101,Tarang,Khushi Borde
+SIH25039,Ministry of Earth Sciences (MoES),Indian National Centre for Ocean Information Services (INCOIS),6,100724,67792,PARITATRA,ADRIJA ROY
+SIH25039,Ministry of Earth Sciences (MoES),Indian National Centre for Ocean Information Services (INCOIS),7,103367,67088,Cluster Innovators,Mohit 
+SIH25039,Ministry of Earth Sciences (MoES),Indian National Centre for Ocean Information Services (INCOIS),8,106015,111074,DeepMine,Samyak Sachin Ra
+SIH25040,Ministry of Earth Sciences (MoES),Indian National Centre for Ocean Information Services (INCOIS),1,69443,85265,Paarth,Simran Nayak
+SIH25040,Ministry of Earth Sciences (MoES),Indian National Centre for Ocean Information Services (INCOIS),2,70113,53224,ArgoNauts_25,Ritul Sharma
+SIH25040,Ministry of Earth Sciences (MoES),Indian National Centre for Ocean Information Services (INCOIS),3,70393,53014,SeaQuery_08,Puru Bhoite
+SIH25040,Ministry of Earth Sciences (MoES),Indian National Centre for Ocean Information Services (INCOIS),4,82268,93554,Data Surfers,Debarpan Koley
+SIH25040,Ministry of Earth Sciences (MoES),Indian National Centre for Ocean Information Services (INCOIS),5,82686,81469,Cataclysmic Anomalies,Dhwani Jain
+SIH25040,Ministry of Earth Sciences (MoES),Indian National Centre for Ocean Information Services (INCOIS),6,68596,54760,Innovators_United,Suriya S
+SIH25004,"Ministry of Fisheries, Animal Husbandry Dairying",Department of Animal Husbandry Dairying (DoAH&D),1,83894,81492,BreedVision18,Kartikey Yadav
+SIH25004,"Ministry of Fisheries, Animal Husbandry Dairying",Department of Animal Husbandry Dairying (DoAH&D),2,90192,77884,AnantX,Shaswat Singh
+SIH25004,"Ministry of Fisheries, Animal Husbandry Dairying",Department of Animal Husbandry Dairying (DoAH&D),3,95429,99556,A-6,Bhagirath Auti
+SIH25004,"Ministry of Fisheries, Animal Husbandry Dairying",Department of Animal Husbandry Dairying (DoAH&D),4,89174,90186,Syndicate6,Aditya B
+SIH25004,"Ministry of Fisheries, Animal Husbandry Dairying",Department of Animal Husbandry Dairying (DoAH&D),5,91716,99878,Synora_Atharva,Atharva Rajendra Awade
+SIH25004,"Ministry of Fisheries, Animal Husbandry Dairying",Department of Animal Husbandry Dairying (DoAH&D),6,69946,64256,The_cattle_race,Muhammed Ashra
+SIH25004,"Ministry of Fisheries, Animal Husbandry Dairying",Department of Animal Husbandry Dairying (DoAH&D),7,71176,83993,Cattlysts,Tanmay Tanaji Dh
+SIH25072,Ministry of Mines,Hindustan Copper Limited (HCL),1,72041,56638,SolarSiphon,Siya Kumari
+SIH25072,Ministry of Mines,Hindustan Copper Limited (HCL),2,116312,83769,MECH-MINDS,Mathiyazhagan S 
+SIH25072,Ministry of Mines,Hindustan Copper Limited (HCL),3,75078,61770,MiningMotors_T72,Ayushi Kundu
+SIH25072,Ministry of Mines,Hindustan Copper Limited (HCL),4,88157,87480,Solar Surfers,Tumuluri Shashan
+SIH25072,Ministry of Mines,Hindustan Copper Limited (HCL),5,112937,82910,Green Sparks2,Rajdeep Pal
+SIH25072,Ministry of Mines,Hindustan Copper Limited (HCL),6,76498,91403,Aqua Logic,Shubham B Bagod
+SIH25072,Ministry of Mines,Hindustan Copper Limited (HCL),7,65837,78903,ZENITH !!,Kanak Sampurnan Varma
+SIH25200,Ministry of Skill Development and Entrepreneurship (MSDE),Ministry of Skill Development and_x000D_ Entrepreneurship (MSDE) in association with National Council for Vocational Education_x000D_ and Training (NCVET),1,111526,96544,GenSix,RANEESH CHOWDARY P
+SIH25200,Ministry of Skill Development and Entrepreneurship (MSDE),Ministry of Skill Development and_x000D_ Entrepreneurship (MSDE) in association with National Council for Vocational Education_x000D_ and Training (NCVET),2,115345,99436,ORDINALS,Rahul Kumar Mah
+SIH25200,Ministry of Skill Development and Entrepreneurship (MSDE),Ministry of Skill Development and_x000D_ Entrepreneurship (MSDE) in association with National Council for Vocational Education_x000D_ and Training (NCVET),3,122778,93051,Equinox_,Akshat Gupta
+SIH25200,Ministry of Skill Development and Entrepreneurship (MSDE),Ministry of Skill Development and_x000D_ Entrepreneurship (MSDE) in association with National Council for Vocational Education_x000D_ and Training (NCVET),4,110985,110867,The Social Network1,Nithish N S
+SIH25200,Ministry of Skill Development and Entrepreneurship (MSDE),Ministry of Skill Development and_x000D_ Entrepreneurship (MSDE) in association with National Council for Vocational Education_x000D_ and Training (NCVET),5,128346,102656,_Issavibles_,Ishaan Gupta
+SIH25200,Ministry of Skill Development and Entrepreneurship (MSDE),Ministry of Skill Development and_x000D_ Entrepreneurship (MSDE) in association with National Council for Vocational Education_x000D_ and Training (NCVET),6,126468,87737,HashForge,Awnikant Ajay 
+SIH25200,Ministry of Skill Development and Entrepreneurship (MSDE),Ministry of Skill Development and_x000D_ Entrepreneurship (MSDE) in association with National Council for Vocational Education_x000D_ and Training (NCVET),7,101209,106782,SATHYAANKIT,Amit Kumar Yada
+SIH25223,Ministry of Science and Technology,Department of Science and Technology (DST),1,129513,64198,Innov8 India,Meeth R
+SIH25223,Ministry of Science and Technology,Department of Science and Technology (DST),2,127750,64238,PoshuLens,Ismail Hossen
+SIH25223,Ministry of Science and Technology,Department of Science and Technology (DST),3,126199,65597,ELECTRIZZ3699,Sharavana vell KT
+SIH25223,Ministry of Science and Technology,Department of Science and Technology (DST),4,128521,108668,Aqua Vision.,Dipika Sinha
+SIH25223,Ministry of Science and Technology,Department of Science and Technology (DST),5,124336,96486,E-Metrologix,Sowrathi V
+SIH25223,Ministry of Science and Technology,Department of Science and Technology (DST),6,130465,104849,EXCELSIOR,MUHAMMED DANISH.Z
+SIH25223,Ministry of Science and Technology,Department of Science and Technology (DST),7,131985,80102,LNC,SNIHITA NANDI
+SIH25224,Ministry of Science and Technology,Department of Science and Technology (DST),1,128349,87803,Nexo_01,Aram Farooque
+SIH25224,Ministry of Science and Technology,Department of Science and Technology (DST),2,126919,93427,Smart Hackers_01,POOVIKA M
+SIH25224,Ministry of Science and Technology,Department of Science and Technology (DST),3,121274,102187,Shield Tech,Dipanshu Narayan Rahangdale
+SIH25224,Ministry of Science and Technology,Department of Science and Technology (DST),4,131691,82476,imperial,Shreyansh Gupta
+SIH25224,Ministry of Science and Technology,Department of Science and Technology (DST),5,114906,84574,BREAKERS BRAIN,Selvakumaran K S
+SIH25224,Ministry of Science and Technology,Department of Science and Technology (DST),6,96353,75165,Storm_Breaker,Debjit Das
+SIH25224,Ministry of Science and Technology,Department of Science and Technology (DST),7,97268,78550,Track Catch,Ayush Sunil Nand
+SIH25217,Ministry of Defence (MoD),"Defence Space Agency, Headquarters Integrated Defence Staff (IDS)",1,123500,71362,Tech Helios V2,Kaviya P P
+SIH25217,Ministry of Defence (MoD),"Defence Space Agency, Headquarters Integrated Defence Staff (IDS)",2,129890,72891,Helix House,Sangsai S T
+SIH25217,Ministry of Defence (MoD),"Defence Space Agency, Headquarters Integrated Defence Staff (IDS)",3,114626,76532,NEXOVATE 1.0,Suji.T 
+SIH25217,Ministry of Defence (MoD),"Defence Space Agency, Headquarters Integrated Defence Staff (IDS)",4,124789,87636,Techno Titanz,Madeshwar M
+SIH25217,Ministry of Defence (MoD),"Defence Space Agency, Headquarters Integrated Defence Staff (IDS)",5,122515,80818,VeloTriZ,Jayanth K
+SIH25217,Ministry of Defence (MoD),"Defence Space Agency, Headquarters Integrated Defence Staff (IDS)",6,129279,63587,Brute F0rce,K. S. Vikaas
+SIH25217,Ministry of Defence (MoD),"Defence Space Agency, Headquarters Integrated Defence Staff (IDS)",7,126400,117821,Blank Point,Akash Singh
+SIH25217,Ministry of Defence (MoD),"Defence Space Agency, Headquarters Integrated Defence Staff (IDS)",8,126924,93329,VAGABOND,Vishal Kumar

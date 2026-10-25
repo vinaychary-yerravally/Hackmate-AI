@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HackMatch AI - Smart India Hackathon Mentor</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    <div class="hero-bg">
+        <div class="container">
+            <header class="main-header">
+                <h1>HackMatch AI</h1>
+                <p>Smart India Hackathon Matcher & AI Mentor Engine</p>
+            </header>
+
+            <div class="search-card">
+                <form method="POST" action="/" id="chatForm" onsubmit="handleFormSubmit()">
+                    <div class="input-wrapper">
+                        <textarea 
+                            name="project_idea" 
+                            id="project_idea"
+                            placeholder="Describe your hackathon idea or ask a question..."
+                            rows="2"
+                            required></textarea>
+                        
+                        <button type="submit" class="send-btn" title="Send message">➔</button>
+                    </div>
+                    
+                    <div class="form-footer">
+                        <div class="sample-chips">
+                            <button type="button" class="chip" onclick="fillAndSubmit('Hi, who are you?')">👋 Say Hi</button>
+                            <button type="button" class="chip" onclick="fillInput('AI crop disease detection and soil health advisory platform')">🌾 Agriculture</button>
+                            <button type="button" class="chip" onclick="fillInput('Remote patient monitoring and queue management system')">🏥 Healthcare</button>
+                            <button type="button" class="chip" onclick="fillInput('Blockchain invoice verification for MSMEs')">⚙️ FinTech</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div class="content-bg">
+        <div class="container">
+
+            <!-- AI Response Output Box -->
+            {% if ai_advice %}
+            <section class="ai-card">
+                <div class="ai-card-header">
+                    <h2>✨ HackMate AI Mentor Advice</h2>
+                </div>
+                <div class="ai-card-body">
+                    <div id="formatted-ai-response"></div>
+                    <textarea id="raw-ai-text" style="display:none;">{{ ai_advice }}</textarea>
+                </div>
+            </section>
+            {% endif %}
+
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const rawText = document.getElementById('raw-ai-text');
+            const targetDiv = document.getElementById('formatted-ai-response');
+            if (rawText && targetDiv) {
+                targetDiv.innerHTML = marked.parse(rawText.value);
+            }
+        });
+
+        function fillInput(text) {
+            document.getElementById('project_idea').value = text;
+        }
+
+        function fillAndSubmit(text) {
+            document.getElementById('project_idea').value = text;
+            document.getElementById('chatForm').submit();
+        }
+
+        function handleFormSubmit() {
+            setTimeout(function() {
+                document.getElementById('project_idea').value = '';
+            }, 10);
+        }
+
+        document.getElementById('project_idea').addEventListener('keydown', function(e) {
+            if (e.key === 'Enter' && !e.shiftKey) {
+                e.preventDefault();
+                if (this.value.trim().length > 0) {
+                    document.getElementById('chatForm').submit();
+                }
+            }
+        });
+    </script>
+</body>
+</html>
